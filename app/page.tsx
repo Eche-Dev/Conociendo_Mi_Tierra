@@ -3,7 +3,6 @@ import { Hero } from '@/components/home/hero'
 import { Prologue } from '@/components/home/prologue'
 import { Scene } from '@/components/home/scene'
 import { ScrollDriver } from '@/components/home/scroll-driver'
-import { Spirituality } from '@/components/home/spirituality'
 import { destinations } from '@/lib/data/destinations'
 
 export default function Page() {
@@ -21,7 +20,6 @@ export default function Page() {
             total={destinations.length}
           />
         ))}
-        <Spirituality />
         <Epilogue />
       </main>
     </>
