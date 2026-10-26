@@ -16,14 +16,6 @@ const sweets = [
   ['Marquesa y golfeados', 'Capas frías de chocolate, o panes enrollados con papelón, queso y anís.'],
 ]
 
-const regions = [
-  ['Costa Caribeña', 'Pescados, mariscos, cazón, coco y empanadas. En Margarita, Sucre, Mochima y Paria, el mar llega a la mesa con ají dulce, limón y plátano.'],
-  ['Andes', 'La cocina de montaña abraza la pizca andina, los panes artesanales, la trucha, los quesos, las arepas de trigo y el calentao.'],
-  ['Llanos', 'Carne en vara, pisillo de chigüire, cachapas, queso criollo y dulces de leche acompañan la música y los fogones de los hatos.'],
-  ['Oriente y Guayana', 'El pelao guayanés, el casabe, el mañoco, el pescado de río, el moriche y el cacao cuentan historias indígenas y ribereñas.'],
-  ['Centro y Occidente', 'Coro, Lara y Aragua reúnen chivo, queso de cabra, cocuy, vinos, cacao, salsas de ají y tradiciones afrovenezolanas.'],
-]
-
 export function Gastronomy() {
   return (
     <section id="gastronomia" aria-labelledby="gastronomia-title" className="relative overflow-hidden border-t border-border bg-background px-6 py-32 md:px-12 md:py-48">
@@ -62,11 +54,6 @@ export function Gastronomy() {
               <p className="leading-relaxed text-muted-foreground">Papelón con limón, chicha de arroz, cocada, guarapo de caña, chicha andina y ponche crema acompañan la vida cotidiana y las fiestas.</p>
             </div>
           </div>
-        </div>
-
-        <div className="mt-32 border-t border-border pt-16">
-          <h3 className="mb-10 text-sm uppercase tracking-[0.3em] text-primary">Un recorrido región por región</h3>
-          <div className="grid gap-x-10 gap-y-12 md:grid-cols-2 lg:grid-cols-3">{regions.map(([name, description]) => <article key={name}><h4 className="text-2xl text-foreground">{name}</h4><p className="mt-3 leading-relaxed text-muted-foreground">{description}</p></article>)}</div>
         </div>
       </div>
     </section>

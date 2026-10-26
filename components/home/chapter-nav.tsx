@@ -43,6 +43,7 @@ export function ChapterNav({ chapters }: { chapters: Chapter[] }) {
         </a>
         <div className="pointer-events-auto flex items-center gap-4">
           <nav aria-label="Secciones principales" className="hidden items-center gap-4 text-[10px] uppercase tracking-[0.16em] text-foreground/70 md:flex">
+            <a href="#inicio" className="transition-colors hover:text-primary">Inicio</a>
             <a href="/turismo" className="transition-colors hover:text-primary">Turismo</a>
             <a href="/gastronomia" className="transition-colors hover:text-primary">Gastronomía</a>
             <a href="/espiritualidad" className="transition-colors hover:text-primary">Espiritualidad</a>

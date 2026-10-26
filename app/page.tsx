@@ -1,6 +1,5 @@
 import { ChapterNav } from '@/components/home/chapter-nav'
 import { Epilogue } from '@/components/home/epilogue'
-import { Gastronomy } from '@/components/home/gastronomy'
 import { Hero } from '@/components/home/hero'
 import { Prologue } from '@/components/home/prologue'
 import { Scene } from '@/components/home/scene'
@@ -26,7 +25,6 @@ export default function Page() {
             total={destinations.length}
           />
         ))}
-        <Gastronomy />
         <Spirituality />
         <Epilogue />
       </main>
