@@ -1,4 +1,3 @@
-import { ChapterNav } from '@/components/home/chapter-nav'
 import { Epilogue } from '@/components/home/epilogue'
 import { Hero } from '@/components/home/hero'
 import { Prologue } from '@/components/home/prologue'
@@ -8,12 +7,9 @@ import { Spirituality } from '@/components/home/spirituality'
 import { destinations } from '@/lib/data/destinations'
 
 export default function Page() {
-  const chapters = destinations.map(({ id, name }) => ({ id, name }))
-
   return (
     <>
       <ScrollDriver />
-      <ChapterNav chapters={chapters} />
       <main>
         <Hero />
         <Prologue destinations={destinations} />

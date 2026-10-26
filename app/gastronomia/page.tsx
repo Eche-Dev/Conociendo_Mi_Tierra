@@ -1,5 +1,11 @@
 import { Gastronomy } from '@/components/home/gastronomy'
+import { BackLink } from '@/components/sections/back-link'
 
 export default function GastronomiaPage() {
-  return <Gastronomy />
+  return (
+    <div className="relative">
+      <BackLink />
+      <Gastronomy />
+    </div>
+  )
 }

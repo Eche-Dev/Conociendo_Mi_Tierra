@@ -1,6 +1,7 @@
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Anton, Source_Serif_4 } from 'next/font/google'
+import { ChapterNav } from '@/components/home/chapter-nav'
 import './globals.css'
 
 const anton = Anton({ weight: '400', subsets: ['latin'], variable: '--font-anton' })
@@ -38,6 +39,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`${anton.variable} ${sourceSerif.variable} bg-background scroll-smooth`}>
       <body className="font-serif antialiased">
+        <ChapterNav />
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
