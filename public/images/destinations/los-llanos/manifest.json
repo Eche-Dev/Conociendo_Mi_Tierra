@@ -1,0 +1,122 @@
+[
+  {
+    "step": "1",
+    "id": "sabana-inundable",
+    "title": "La Inmensidad de la Sabana Llanera",
+    "place": "Apure · La llanura inundable donde el agua y el cielo se funden",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/los-llanos/1.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2404,
+    "wikimediaTitle": "File:Sabanas del Capanaparo.jpg"
+  },
+  {
+    "step": "2",
+    "id": "llanero-a-caballo",
+    "title": "El Llanero y la Faena a Caballo",
+    "place": "Hatos de Apure · Cantos de trabajo y arreo de ganado",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/los-llanos/2.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 4533,
+    "wikimediaTitle": "File:Caballo criollo (10620218994).jpg"
+  },
+  {
+    "step": "3",
+    "id": "chiguires-esteros",
+    "title": "Manada de Chigüires en los Esteros",
+    "place": "Esteros de Camaguán · El roedor más grande del planeta",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/los-llanos/3.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3405,
+    "wikimediaTitle": "File:Wasserschweine und Vögel in der Llanos-Ebene, Venezuela.JPG"
+  },
+  {
+    "step": "4",
+    "id": "caiman-del-orinoco",
+    "title": "Caimán del Orinoco",
+    "place": "Caño Guaritico · Santuario de fauna silvestre",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/los-llanos/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2672,
+    "wikimediaTitle": "File:Caiman del orinoco.JPG"
+  },
+  {
+    "step": "5",
+    "id": "corocoras-rojas",
+    "title": "Vuelo de Corocoras Rojas",
+    "place": "Humedales llaneros · El espectáculo escarlata al atardecer",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/los-llanos/5.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 826,
+    "wikimediaTitle": "File:Scarlet Ibis - Corocoro Colorado (Eudocimus ruber) (12520541893).jpg"
+  },
+  {
+    "step": "6",
+    "id": "morichales-llano",
+    "title": "Palmares de Moriche",
+    "place": "Bosques de galería · El árbol de la vida de los Llanos",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/los-llanos/6.jpg",
+    "width": 2048,
+    "height": 1503,
+    "sizeKb": 2103,
+    "wikimediaTitle": "File:Morichal en La Primavera, Vichada.jpg"
+  },
+  {
+    "step": "7",
+    "id": "rio-apure-pesca",
+    "title": "Ríos y Caños del Llano",
+    "place": "Río Apure · La arteria fluvial de las sabanas del sur",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/los-llanos/7.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3956,
+    "wikimediaTitle": "File:Rio Apure.JPG"
+  },
+  {
+    "step": "8",
+    "id": "toninas-delfin-rio",
+    "title": "Toninas del Río Apure",
+    "place": "Confluencia Apure-Orinoco · Delfín de río de agua dulce",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/los-llanos/8.jpg",
+    "width": 2048,
+    "height": 1284,
+    "sizeKb": 229,
+    "wikimediaTitle": "File:Acuario de Valencia.JPG"
+  },
+  {
+    "step": "9",
+    "id": "hato-llanero-joropo",
+    "title": "El Hato y la Tradición Llanera",
+    "place": "Corazón llanero · Casonas de hato, arpa y copla",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/los-llanos/9.jpg",
+    "width": 2048,
+    "height": 1371,
+    "sizeKb": 661,
+    "wikimediaTitle": "File:Puesta de sol en Apure.JPG"
+  },
+  {
+    "step": "10",
+    "id": "atardecer-llanero",
+    "title": "El Atardecer de Fuego en la Llanura",
+    "place": "Bajo Apure · El crepúsculo más amplio y limpio del continente",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/los-llanos/10.jpg",
+    "width": 2048,
+    "height": 1360,
+    "sizeKb": 933,
+    "wikimediaTitle": "File:Orinoco river from Parmana Venezuela.jpg"
+  }
+]

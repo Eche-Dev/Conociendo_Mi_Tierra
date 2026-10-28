@@ -1,0 +1,62 @@
+[
+  {
+    "step": "2",
+    "id": "mirador-laime",
+    "title": "El Mirador de Laime",
+    "place": "Isla Ratón · El mirador frente al coloso tras la caminata en selva",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/salto-angel/2.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2748,
+    "wikimediaTitle": "File:Preciosa Vista.JPG"
+  },
+  {
+    "step": "3",
+    "id": "canon-del-diablo",
+    "title": "El Cañón del Diablo",
+    "place": "Garganta del Auyantepuy · Paredes verticales de mil metros de roca",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/salto-angel/3.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3056,
+    "wikimediaTitle": "File:Audan Tüpü (Auyantepuy).JPG"
+  },
+  {
+    "step": "5",
+    "id": "cima-auyantepuy",
+    "title": "La Cima del Auyantepuy",
+    "place": "Meseta del Auyantepuy · Nacimiento del río Kerep",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/salto-angel/5.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 606,
+    "wikimediaTitle": "File:Kerepakupai Vená.jpg"
+  },
+  {
+    "step": "9",
+    "id": "campamento-isla-raton",
+    "title": "Noche en la Selva de Isla Ratón",
+    "place": "Isla Ratón · Dormir en hamacas con el rugido del salto",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/salto-angel/9.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 480,
+    "wikimediaTitle": "File:E Mm Fmm Canaima (231087287).jpeg"
+  },
+  {
+    "step": "10",
+    "id": "arcoiris-amanecer",
+    "title": "El Arcoíris de la Mañana",
+    "place": "Auyantepuy · La luz solar quebrando el vapor en colores",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/salto-angel/10.jpg",
+    "width": 2048,
+    "height": 2731,
+    "sizeKb": 11422,
+    "wikimediaTitle": "File:Salto Angel - Kerepakupai Vená.JPG"
+  }
+]

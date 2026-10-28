@@ -1,0 +1,98 @@
+[
+  {
+    "step": "1",
+    "id": "tormenta-nocturna",
+    "title": "La Tormenta Perpetua",
+    "place": "Lago de Maracaibo · Récord Guinness mundial de descargas",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/catatumbo/1.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 1428,
+    "wikimediaTitle": "File:Catatumbo Lightning - Rayo del Catatumbo.jpg"
+  },
+  {
+    "step": "2",
+    "id": "palafitos-ologa",
+    "title": "Palafitos de Ologá bajo el Relámpago",
+    "place": "Ologá · Aldea flotante en el delta del Catatumbo",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/catatumbo/2.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1027,
+    "wikimediaTitle": "File:Palafitos del pueblo de Ologá.jpg"
+  },
+  {
+    "step": "3",
+    "id": "congo-mirador",
+    "title": "El Pueblo de Agua de Congo Mirador",
+    "place": "Congo Mirador · Comunidad palafítica entre canales",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/catatumbo/3.jpg",
+    "width": 2048,
+    "height": 1360,
+    "sizeKb": 1474,
+    "wikimediaTitle": "File:Palafitos Lago de Maracaibo.jpg"
+  },
+  {
+    "step": "4",
+    "id": "rio-catatumbo",
+    "title": "Desembocadura del Río Catatumbo",
+    "place": "Boca del río Catatumbo · Encuentro de agua dulce y lago",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/catatumbo/4.jpg",
+    "width": 2048,
+    "height": 1084,
+    "sizeKb": 1187,
+    "wikimediaTitle": "File:Zuliadelpuentee.JPG"
+  },
+  {
+    "step": "5",
+    "id": "cienagas-juan-manuel",
+    "title": "Parque Nacional Ciénagas de Juan Manuel",
+    "place": "Ciénagas del Catatumbo · Parque Nacional protector del fenómeno",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/catatumbo/5.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1646,
+    "wikimediaTitle": "File:Comunidad de Ologá.jpg"
+  },
+  {
+    "step": "6",
+    "id": "fauna-y-toninas",
+    "title": "Fauna de las Ciénagas y el Lago",
+    "place": "Cuenca del Catatumbo · Garzas, toninas y caimanes",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/catatumbo/6.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 1709,
+    "wikimediaTitle": "File:Garza Blanca en un mercado de Chimbote.jpg"
+  },
+  {
+    "step": "7",
+    "id": "faro-de-maracaibo",
+    "title": "El Faro de Maracaibo",
+    "place": "Horizonte sur del lago · La luz que guió navegantes desde el siglo XVI",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/catatumbo/7.jpg",
+    "width": 2048,
+    "height": 1712,
+    "sizeKb": 2066,
+    "wikimediaTitle": "File:Lake Maracaibo (MODIS 2018-12-25).jpg"
+  },
+  {
+    "step": "8",
+    "id": "pescadores-amanecer",
+    "title": "Amanecer de los Pescadores",
+    "place": "Aguas del Catatumbo · Pesca artesanal al clarear el día",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/catatumbo/8.jpg",
+    "width": 2048,
+    "height": 1234,
+    "sizeKb": 1943,
+    "wikimediaTitle": "File:Bote en el Lago de Maracaibo.jpg"
+  }
+]

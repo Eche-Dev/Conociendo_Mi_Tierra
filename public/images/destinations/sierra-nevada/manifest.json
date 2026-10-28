@@ -1,0 +1,122 @@
+[
+  {
+    "step": "1",
+    "id": "pico-bolivar",
+    "title": "Pico Bolívar · El Techo de Venezuela",
+    "place": "Sierra Nevada de Mérida · 4.978 m s. n. m.",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/sierra-nevada/1.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2438,
+    "wikimediaTitle": "File:Pico Bolívar desde el Pico el Toro.jpg"
+  },
+  {
+    "step": "2",
+    "id": "teleferico-mukumbaru",
+    "title": "Teleférico Mukumbarí · Estación Pico Espejo",
+    "place": "Pico Espejo · El teleférico más alto del mundo (4.765 m)",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/sierra-nevada/2.jpg",
+    "width": 2048,
+    "height": 1461,
+    "sizeKb": 2253,
+    "wikimediaTitle": "File:Teleférico de Mérida estación pico espejo.jpg"
+  },
+  {
+    "step": "3",
+    "id": "laguna-mucubaji",
+    "title": "Laguna de Mucubají",
+    "place": "Parque Nacional Sierra Nevada · 3.550 m s. n. m.",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/sierra-nevada/3.jpg",
+    "width": 2048,
+    "height": 1252,
+    "sizeKb": 2094,
+    "wikimediaTitle": "File:Laguna de Mucubaji III.jpg"
+  },
+  {
+    "step": "4",
+    "id": "paramo-frailejones",
+    "title": "Páramo de Mifafí y Frailejones",
+    "place": "Páramo andino · Santuario del cóndor y frailejones gigantes",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/sierra-nevada/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2257,
+    "wikimediaTitle": "File:Neblina en el páramo.JPG"
+  },
+  {
+    "step": "5",
+    "id": "laguna-negra",
+    "title": "Laguna Negra",
+    "place": "Valle glaciar · Espejo de agua profunda rodeado de bosque",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/sierra-nevada/5.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 4866,
+    "wikimediaTitle": "File:Laguna Negra, cercana a Laguna de Mucubají.jpg"
+  },
+  {
+    "step": "6",
+    "id": "pico-humboldt",
+    "title": "Pico Humboldt y Glaciar La Corona",
+    "place": "Segunda cumbre más alta · 4.940 m s. n. m.",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/sierra-nevada/6.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3690,
+    "wikimediaTitle": "File:Glaciar Pico Humboldt (Sierra Nevada-Merida) (1).JPG"
+  },
+  {
+    "step": "7",
+    "id": "los-nevados",
+    "title": "Pueblo de Los Nevados",
+    "place": "Valle interandino · Casas de adobe y caminos de herradura",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/sierra-nevada/7.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2561,
+    "wikimediaTitle": "File:Los Nevados, Merida, Venezuela.jpg"
+  },
+  {
+    "step": "8",
+    "id": "capilla-de-piedra",
+    "title": "Capilla de Piedra de Juan Félix Sánchez",
+    "place": "San Rafael de Mucuchíes · 3.140 m s. n. m.",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/sierra-nevada/8.jpg",
+    "width": 2048,
+    "height": 1422,
+    "sizeKb": 2696,
+    "wikimediaTitle": "File:Interior de la Capilla de piedra.jpg"
+  },
+  {
+    "step": "9",
+    "id": "collado-del-condor",
+    "title": "Collado del Cóndor (Pico El Águila)",
+    "place": "Troncal 7 · Paso carretero más alto de Venezuela (4.118 m)",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/sierra-nevada/9.jpg",
+    "width": 2048,
+    "height": 1623,
+    "sizeKb": 4735,
+    "wikimediaTitle": "File:Hoja 6042 - MUCUCHÍES, TIMOTES, PICO EL ÁGUILA - DCN 1976.jpg"
+  },
+  {
+    "step": "10",
+    "id": "catedral-merida-sierra",
+    "title": "Ciudad de Mérida y la Cordillera",
+    "place": "Valle del Chama · La ciudad universitaria y sus cumbres nevadas",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/sierra-nevada/10.jpg",
+    "width": 2048,
+    "height": 1325,
+    "sizeKb": 3103,
+    "wikimediaTitle": "File:Cathedral Basilica of the Immaculate Conception, Jan 2020.jpg"
+  }
+]

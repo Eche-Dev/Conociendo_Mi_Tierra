@@ -1,0 +1,122 @@
+[
+  {
+    "step": "1",
+    "id": "dunas-monumentales",
+    "title": "Las Dunas Doradas del Istmo",
+    "place": "Istmo de Paraguaná · Dunas de hasta 40 metros",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/1.jpg",
+    "width": 2048,
+    "height": 1361,
+    "sizeKb": 641,
+    "wikimediaTitle": "File:Medanos de Coro V.jpg"
+  },
+  {
+    "step": "2",
+    "id": "crestas-al-viento",
+    "title": "Crestas Talladas por los Alisios",
+    "place": "Parque Nacional Médanos de Coro · Paisaje cambiante",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/2.jpg",
+    "width": 2048,
+    "height": 1377,
+    "sizeKb": 2229,
+    "wikimediaTitle": "File:Medanos de coro 2.jpg"
+  },
+  {
+    "step": "3",
+    "id": "atardecer-dorado",
+    "title": "El Atardecer en el Desierto",
+    "place": "Médanos de Coro · Luz de cobre y sombras alargadas",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/3.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1011,
+    "wikimediaTitle": "File:Atardecer espectacular en los Médanos de Coro.JPG"
+  },
+  {
+    "step": "4",
+    "id": "cujies-y-cardones",
+    "title": "El Bosque Espinoso y Cujíes",
+    "place": "Borde del parque · Cujíes y cardones sobrevivientes",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/4.jpg",
+    "width": 2048,
+    "height": 1484,
+    "sizeKb": 97,
+    "wikimediaTitle": "File:Bastion et porte Cardon (1).jpg"
+  },
+  {
+    "step": "5",
+    "id": "inmensidad-del-medano",
+    "title": "El Desierto que Camina",
+    "place": "Centro del campo dunar · 91 km² de arena móvil",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/5.jpg",
+    "width": 2048,
+    "height": 1361,
+    "sizeKb": 641,
+    "wikimediaTitle": "File:Medanos de Coro V.jpg"
+  },
+  {
+    "step": "6",
+    "id": "casco-colonial-coro",
+    "title": "Santa Ana de Coro · Calles de Tierra y Piedra",
+    "place": "Casco histórico de Coro · Patrimonio Mundial UNESCO",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/6.jpg",
+    "width": 2048,
+    "height": 1367,
+    "sizeKb": 2403,
+    "wikimediaTitle": "File:La Casa del Sol, en la Calle Federación.jpg"
+  },
+  {
+    "step": "7",
+    "id": "catedral-de-coro",
+    "title": "Catedral Basílica de Santa Ana de Coro",
+    "place": "Plaza Bolívar de Coro · Primer obispado de Sudamérica (1531)",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/7.jpg",
+    "width": 2048,
+    "height": 1400,
+    "sizeKb": 5758,
+    "wikimediaTitle": "File:Ancla en el Techo de la Catedral.JPG"
+  },
+  {
+    "step": "8",
+    "id": "arquitectura-bahareque",
+    "title": "Ventanales y Patios Coloniales",
+    "place": "Coro · Arquitectura tradicional de barro y bahareque",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/8.jpg",
+    "width": 2048,
+    "height": 1367,
+    "sizeKb": 2403,
+    "wikimediaTitle": "File:La Casa del Sol, en la Calle Federación.jpg"
+  },
+  {
+    "step": "9",
+    "id": "la-vela-de-coro",
+    "title": "Puerto Real de La Vela de Coro",
+    "place": "La Vela · Puerto histórico y desembarco de Miranda (1806)",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/9.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1484,
+    "wikimediaTitle": "File:Playa en La Vela de Coro, Estado Falcón, Venezuela 02.jpg"
+  },
+  {
+    "step": "10",
+    "id": "camino-a-paraguana",
+    "title": "La Entrada a la Península",
+    "place": "Carretera Coro-Punto Fijo · La cinta de asfalto entre médanos",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/medanos-de-coro/10.jpg",
+    "width": 2048,
+    "height": 1155,
+    "sizeKb": 2380,
+    "wikimediaTitle": "File:Médanos de Coro.JPG"
+  }
+]

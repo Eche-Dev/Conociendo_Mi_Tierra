@@ -1,0 +1,86 @@
+[
+  {
+    "step": "1",
+    "id": "canos-del-delta",
+    "title": "El Laberinto Verde de Caños",
+    "place": "Delta Amacuro · Más de 300 caños y 40.000 km² de selva inundable",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/delta-orinoco/1.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2897,
+    "wikimediaTitle": "File:Delta del Orinoco 110514-22.JPG"
+  },
+  {
+    "step": "3",
+    "id": "palafitos-janoko",
+    "title": "El Janoko: Hogar sobre el Agua",
+    "place": "Riberas fluviales · Viviendas tradicionales de madera y palma temiche",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/delta-orinoco/3.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3390,
+    "wikimediaTitle": "File:Delta del Orinoco 110514-10.JPG"
+  },
+  {
+    "step": "4",
+    "id": "cano-manamo",
+    "title": "Caño Mánamo · La Gran Vía Fluvial",
+    "place": "Tucupita · El brazo occidental que conecta el Delta con el país",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/delta-orinoco/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2897,
+    "wikimediaTitle": "File:Delta del Orinoco 110514-22.JPG"
+  },
+  {
+    "step": "5",
+    "id": "selva-inundable",
+    "title": "Reserva de Biosfera del Delta",
+    "place": "Ecosistema protegido UNESCO · Selva tropical y manglares gigantes",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/delta-orinoco/5.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3381,
+    "wikimediaTitle": "File:Delta del Orinoco 110514-6.JPG"
+  },
+  {
+    "step": "6",
+    "id": "artesania-moriche",
+    "title": "Artesanía Ancestral de Moriche",
+    "place": "Comunidades Warao · Chinchorros y cestería de fibra natural",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/delta-orinoco/6.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 841,
+    "wikimediaTitle": "File:Making crafts with Moriche's tree thread - Haciendo artesanía con hilos de árbol de moriche.JPG"
+  },
+  {
+    "step": "7",
+    "id": "fauna-aves-delta",
+    "title": "Aves y Fauna de la Selva Ribereña",
+    "place": "Dosel selvático · Tucanes, guacamayas y monos aulladores",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/delta-orinoco/7.jpg",
+    "width": 2048,
+    "height": 1220,
+    "sizeKb": 729,
+    "wikimediaTitle": "File:Atardecer con el vuelo de los corocoras en el Delta del Orinoco.JPG"
+  },
+  {
+    "step": "10",
+    "id": "atardecer-orinoco",
+    "title": "Atardecer Dorado sobre el Delta",
+    "place": "Desembocadura atlántica · La luz dorada sobre las aguas de misterio",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/delta-orinoco/10.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2915,
+    "wikimediaTitle": "File:Delta del Orinoco 110514-26.JPG"
+  }
+]

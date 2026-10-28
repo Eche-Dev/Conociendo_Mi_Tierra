@@ -1,0 +1,98 @@
+[
+  {
+    "step": "1",
+    "id": "laguna-canaima-tepuyes",
+    "title": "La Laguna de Canaima y los Tepuyes",
+    "place": "Laguna de Canaima · Aguas ambarinas y tepuyes Kuravaina y Kusari",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/canaima/1.jpg",
+    "width": 2048,
+    "height": 1367,
+    "sizeKb": 609,
+    "wikimediaTitle": "File:Laguna de Canaima (2004) 07.jpg"
+  },
+  {
+    "step": "2",
+    "id": "salto-el-sapo",
+    "title": "Salto El Sapo · El Paso tras la Cortina",
+    "place": "Río Carrao · El sendero tallado en la roca tras la caída de agua",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/canaima/2.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2568,
+    "wikimediaTitle": "File:Salto El Sapo - Laguna de Canaima.JPG"
+  },
+  {
+    "step": "3",
+    "id": "salto-hacha",
+    "title": "Salto El Hacha",
+    "place": "Laguna de Canaima · La cascada más estruendosa de la orilla norte",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/canaima/3.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 758,
+    "wikimediaTitle": "File:Salto El Hacha, Canaima..JPG"
+  },
+  {
+    "step": "4",
+    "id": "salto-golondrina",
+    "title": "Salto Golondrina y Wadaima",
+    "place": "Borde de la laguna · Hilera de saltos hermanos de agua dulce",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/canaima/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1467,
+    "wikimediaTitle": "File:Mirando al mundo desde una cascada..JPG"
+  },
+  {
+    "step": "5",
+    "id": "rio-carrao-curiara",
+    "title": "Navegación en Curiara por el Río Carrao",
+    "place": "Río Carrao · Travesía fluvial entre islas y rápidos de Mayupa",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/canaima/5.jpg",
+    "width": 2048,
+    "height": 1401,
+    "sizeKb": 1104,
+    "wikimediaTitle": "File:Gran Sabana (2004) 17.jpg"
+  },
+  {
+    "step": "6",
+    "id": "sabana-mayupa",
+    "title": "Sabana de Mayupa y los Tepuyes",
+    "place": "Mayupa · Sabana abierta y vista panorámica de la cordillera tepuyana",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/canaima/6.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2938,
+    "wikimediaTitle": "File:Tepuy Wadakapiapo.jpg"
+  },
+  {
+    "step": "7",
+    "id": "isla-anatoly-pemon",
+    "title": "Cultura Pemón y Campamentos Ancestrales",
+    "place": "Pueblo de Canaima · Guardianes ancestrales de la Gran Sabana",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/canaima/7.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3814,
+    "wikimediaTitle": "File:Respirar en la Laguna de Canaima.JPG"
+  },
+  {
+    "step": "10",
+    "id": "atardecer-laguna-canaima",
+    "title": "Atardecer Dorado sobre Canaima",
+    "place": "Laguna de Canaima · Cierre de oro sobre los saltos y tepuyes",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/canaima/10.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1554,
+    "wikimediaTitle": "File:Clavados en el Salto Wadaima en epoca de verano (Sector Occidental).JPG"
+  }
+]

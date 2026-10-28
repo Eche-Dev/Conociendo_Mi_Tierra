@@ -7,7 +7,7 @@ export const destinations: Destination[] = [
     tagline: 'El acuario del Caribe',
     region: 'Dependencias Federales · Mar Caribe',
     coords: '11°51′N · 66°45′O',
-    image: '/images/los-roques.png',
+    image: '/images/destinations/los-roques/2.webp',
     alt: 'Vista aérea de cayos de arena blanca rodeados de agua turquesa en el archipiélago de Los Roques',
     description:
       'Unas 350 islas, cayos y bancos de arena flotan sobre una laguna de coral donde el agua cambia del verde jade al azul cobalto en pocos metros. En Gran Roque, la única isla con pueblo, las calles son de arena, no circulan carros y las casas pintadas de colores miran al mar. Aquí se viene a bucear entre tortugas y peces loro, a navegar en peñero hasta cayos desiertos y a ver flamencos rosados en las salinas.',
@@ -27,7 +27,7 @@ export const destinations: Destination[] = [
     tagline: 'La Perla del Caribe',
     region: 'Nueva Esparta',
     coords: '11°00′N · 63°55′O',
-    image: '/images/margarita.png',
+    image: '/images/destinations/margarita/02-castillo-san-carlos-borromeo.jpg',
     alt: 'Fortaleza colonial de piedra sobre una bahía con botes pesqueros al atardecer en Isla de Margarita',
     description:
       'Playas de oleaje como Playa El Agua y Parguito, la calma de Juan Griego al atardecer y los manglares de La Restinga, donde se navega por túneles de raíces. Al oeste, la península de Macanao es casi un desierto; al centro, el cerro El Copey se cubre de bosque nublado. Una isla que cabe en un día y no se termina en una vida.',
@@ -47,8 +47,8 @@ export const destinations: Destination[] = [
     tagline: 'El desierto que camina',
     region: 'Falcón',
     coords: '11°30′N · 69°40′O',
-    image: '/images/medanos-coro.png',
-    alt: 'Dunas doradas esculpidas por el viento al atardecer en los Médanos de Coro con un caminante en la cresta',
+    image: '/images/destinations/medanos-de-coro/1.jpg',
+    alt: 'Dunas doradas monumentales en el Parque Nacional Médanos de Coro',
     description:
       'Dunas de hasta 40 metros que los vientos alisios empujan sin descanso, cambiando de forma cada día. Ocupan el istmo que une la ciudad de Coro con la península de Paraguaná, rodeadas de cardones, cujíes y zorros del desierto. Al caer la tarde la arena se tiñe de cobre y basta con subir una cresta para sentirse en otro planeta.',
     facts: [
@@ -67,8 +67,8 @@ export const destinations: Destination[] = [
     tagline: 'El faro de Maracaibo',
     region: 'Zulia · Lago de Maracaibo',
     coords: '9°20′N · 71°40′O',
-    image: '/images/catatumbo.png',
-    alt: 'Decenas de relámpagos violetas sobre el Lago de Maracaibo reflejados en el agua, con palafitos en primer plano',
+    image: '/images/destinations/catatumbo/1.jpg',
+    alt: 'Impresionante rayo del Catatumbo bifurcado iluminando el cielo y el Lago de Maracaibo',
     description:
       'Donde el río Catatumbo desemboca en el Lago de Maracaibo, el aire cálido del lago choca con los vientos fríos de los Andes y la Sierra de Perijá. El resultado es la tormenta eléctrica más persistente del planeta: hasta 260 noches al año y casi 28 relámpagos por minuto, visibles a cientos de kilómetros. Se contempla en silencio desde los pueblos de palafitos de Congo Mirador y Ologá.',
     facts: [
@@ -87,7 +87,7 @@ export const destinations: Destination[] = [
     tagline: 'El techo de Venezuela',
     region: 'Mérida · Cordillera de los Andes',
     coords: '8°32′N · 71°02′O',
-    image: '/images/merida.png',
+    image: '/images/destinations/sierra-nevada/1.jpg',
     alt: 'Picos rocosos nevados de la Sierra Nevada de Mérida sobre un páramo de frailejones y una laguna glaciar',
     description:
       'Picos de casi cinco mil metros, páramos cubiertos de frailejones plateados y lagunas de origen glaciar como Mucubají y la Laguna Negra. El teleférico Mukumbarí sube desde la ciudad de Mérida hasta el Pico Espejo, a 4.765 metros, en uno de los recorridos por cable más largos y altos del mundo. Abajo esperan pueblos de piedra como Los Nevados y Jají.',
@@ -107,8 +107,8 @@ export const destinations: Destination[] = [
     tagline: 'Donde el horizonte no termina',
     region: 'Apure · Barinas · Guárico',
     coords: '7°50′N · 67°30′O',
-    image: '/images/llanos.png',
-    alt: 'Sabana inundada al atardecer con un llanero a caballo, palmeras y garzas volando en Los Llanos de Apure',
+    image: '/images/destinations/los-llanos/1.jpg',
+    alt: 'Sabana abierta de Capanaparo en los Llanos de Apure al atardecer',
     description:
       'Una planicie que ocupa cerca de un tercio de Venezuela y vive al ritmo de dos estaciones: en invierno las lluvias la convierten en un mar de agua dulce; en verano, en una sabana dorada. Es uno de los mejores lugares del continente para ver fauna: chigüires, caimanes del Orinoco, anacondas, toninas y nubes de corocoras rojas al atardecer.',
     facts: [
@@ -127,8 +127,8 @@ export const destinations: Destination[] = [
     tagline: 'La tierra de la gente de las canoas',
     region: 'Delta Amacuro',
     coords: '8°45′N · 61°15′O',
-    image: '/images/delta.png',
-    alt: 'Curiara warao navegando por un caño del Delta del Orinoco al amanecer con palafitos y palmas de moriche',
+    image: '/images/destinations/delta-orinoco/1.jpg',
+    alt: 'Laberinto de caños y selva inundable en el Delta del Orinoco en Delta Amacuro',
     description:
       'Antes de entregarse al Atlántico, el Orinoco se abre en un abanico de cientos de caños que atraviesan manglares y selvas de palma moriche. Se recorre en curiara, entre toninas, guacamayas y monos araguatos, durmiendo en campamentos sobre pilotes y escuchando la selva despertar entre la neblina.',
     facts: [
@@ -147,7 +147,7 @@ export const destinations: Destination[] = [
     tagline: 'Aguas color de té',
     region: 'Bolívar · Parque Nacional Canaima',
     coords: '6°14′N · 62°51′O',
-    image: '/images/canaima.png',
+    image: '/images/destinations/canaima/1.jpg',
     alt: 'Saltos de agua cayendo en la laguna de Canaima de aguas rojizas con playa de arena rosada y tepuyes al fondo',
     description:
       'Los saltos Hacha, Ucaima, Golondrina y Wadaima se derraman sobre una laguna de aguas rojizas, teñidas por los taninos de la vegetación, con playas de arena rosada y tepuyes en el horizonte. En el Salto El Sapo se camina por detrás de la cortina de agua, empapado y con el rugido encima. Es la puerta de entrada al Salto Ángel.',
@@ -167,8 +167,8 @@ export const destinations: Destination[] = [
     tagline: 'Kerepakupai Merú',
     region: 'Bolívar · Auyantepui',
     coords: '5°58′N · 62°32′O',
-    image: '/images/salto-angel.png',
-    alt: 'El Salto Ángel cayendo desde la pared del Auyantepui hacia la selva, con nubes y un arcoíris en la bruma',
+    image: '/images/destinations/salto-angel/1.jpg',
+    alt: 'El Salto Ángel cayendo 979 metros desde la muralla de arenisca del Auyantepuy en Canaima',
     description:
       'La cascada más alta del mundo se lanza desde el borde del Auyantepui y cae 979 metros, 807 de ellos sin tocar roca. En la temporada seca el agua se deshace en niebla antes de llegar al suelo. Se llega remontando los ríos Carrao y Churún en curiara desde Canaima, y luego caminando por la selva hasta el mirador Laime, frente a la pared.',
     facts: [
