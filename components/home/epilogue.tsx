@@ -33,7 +33,7 @@ export function Epilogue() {
       </div>
 
       <footer className="mt-24 flex flex-col justify-between gap-2 border-t border-border pt-6 text-sm text-muted-foreground md:flex-row">
-        <p>Un recorrido por veintinueve paisajes de Venezuela, del Caribe a la Gran Sabana.</p>
+        <p>Un recorrido por treinta paisajes de Venezuela, del Caribe a la Gran Sabana.</p>
         <p className="italic">Imágenes ilustrativas.</p>
       </footer>
     </section>

@@ -34,8 +34,9 @@ export function Hero() {
           style={{ '--delay': '300ms' } as React.CSSProperties}
         >
           <p className="max-w-md text-pretty text-lg leading-relaxed text-foreground/90">
-            Del coral del Caribe a las mesetas más antiguas del planeta. Veintinueve paisajes,
-            sus historias y la gente que los habita.
+            De las aguas cristalinas del Caribe y las cumbres andinas a los tepuyes sagrados
+            del origen del mundo. Treinta destinos vivos, sus memorias ancestrales y el alma
+            noble de nuestra tierra.
           </p>
           <div className="flex items-center gap-4 text-sm uppercase tracking-widest text-foreground/80">
             <span className="relative block h-12 w-px overflow-hidden bg-foreground/20" aria-hidden="true">

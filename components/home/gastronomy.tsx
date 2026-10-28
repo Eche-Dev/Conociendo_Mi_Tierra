@@ -51,29 +51,110 @@ const classics = [
     'El arte del queso de mano hilado en agua caliente, la suavidad del queso guayanés, el telita en suero y el llanero duro rallado.',
     '/images/gastronomia/queso-de-mano.jpg',
   ],
+  [
+    'Patacón zuliano',
+    'Dos tapas crujientes de plátano verde o maduro frito aplastado, rellenas a modo de sándwich con carne mechada o pernil, queso de mano, jamón, repollo y salsas.',
+    '/images/gastronomia/patacon-zuliano.jpg',
+  ],
+  [
+    'Tostones con queso blanco y ensalada',
+    'El rey indiscutible de las playas venezolanas: ruedas gruesas de plátano verde fritas, aplastadas y vueltas a freír crocantes, coronadas con queso blanco rallado y ensalada rallada.',
+    '/images/gastronomia/tostones-con-queso.jpg',
+  ],
+  [
+    'Carne en vara llanera',
+    'Cortes enteros de res ensartados en varas de madera verde sobre brasas de leña a cielo abierto en los Llanos, sazonados únicamente con sal gruesa y servidos con yuca.',
+    '/images/gastronomia/carne-en-vara.jpg',
+  ],
+  [
+    'Chivo en coco',
+    'Clásico insigne del Zulia y Falcón: carne de chivo estofada a fuego muy lento en leche fresca de coco con ají dulce, cebollín y onoto hasta quedar sumamente tierna.',
+    '/images/gastronomia/chivo-en-coco.jpg',
+  ],
+  [
+    'Pastel de chucho margariteño',
+    'Obra cumbre de la cocina oriental y de Nueva Esparta: capas alternadas de tajadas de plátano maduro frito, guiso especiado de cazón o chucho y queso blanco gratinado.',
+    '/images/gastronomia/pastel-de-chucho.jpg',
+  ],
 ]
 
 const soups = [
   [
     'Sancocho y hervido de res',
     'Costilla de res a la leña, ocumo, ñame, yuca, auyama, jojoto tierno y abundante cilantro de monte.',
+    '/images/gastronomia/sancocho-de-res.jpg',
   ],
   [
     'Sopa de mondongo criollo',
     'Panza de res lavada con limón criollo, cocida lentamente con verduras de raíz, maíz dulce y arepita asada.',
+    '/images/gastronomia/sopa-de-mondongo.jpg',
   ],
   [
     'Hervido de gallina criolla',
     'Caldo reconfortante de gallina de patio, verduras tiernas, cebollín y zumo de limón recién exprimido.',
+    '/images/gastronomia/hervido-de-gallina.jpg',
   ],
 ]
 
 const sweets = [
-  ['Quesillo tradicional', 'Flan criollo de textura porosa, leche condensada, vainilla, un toque de ron añejo y caramelo ambarino.'],
-  ['Golfeados con queso de mano', 'Panecillos enrollados con melaza de papelón, semillas de anís dulce y abundante queso blanco salado.'],
-  ['Dulce de lechosa verde', 'Láminas crocantes y traslúcidas de papaya verde confitadas en almíbar de papelón, canela y clavos de olor.'],
-  ['Cacao fino de Chuao', 'El grano criollo con denominación de origen más cotizado del mundo, secado al sol en las costas de Aragua.'],
-  ['Bienmesabe y majarete', 'Bizcocho bañado en licor y crema de coco con merengue tostado, o pudín mestizo de maíz, coco y canela.'],
+  [
+    'Quesillo tradicional',
+    'Flan criollo de textura porosa inconfundible, leche condensada, vainilla, un toque de ron añejo venezolano y caramelo ambarino.',
+    '/images/gastronomia/quesillo-venezolano.jpg',
+  ],
+  [
+    'Golfeados con queso de mano',
+    'Panecillos enrollados en espiral con melaza de papelón, semillas de anís dulce y abundante queso blanco salado por encima.',
+    '/images/gastronomia/golfeados.jpg',
+  ],
+  [
+    'Dulce de lechosa verde',
+    'Láminas crocantes y traslúcidas de papaya verde confitadas en almíbar de papelón, canela en rama y clavos de olor.',
+    '/images/gastronomia/dulce-de-lechosa.jpg',
+  ],
+  [
+    'Arroz con leche tradicional',
+    'Postre casero por excelencia: arroz cocido lentamente en leche con azúcar o leche condensada, aromatizado con clavos y canela molida.',
+    '/images/gastronomia/arroz-con-leche.jpg',
+  ],
+  [
+    'Cacao fino de Chuao',
+    'El grano criollo con Denominación de Origen más cotizado del mundo, secado al sol en el patio colonial de la costa de Aragua.',
+    '/images/gastronomia/cacao-chuao.jpg',
+  ],
+  [
+    'Majarete criollo',
+    'Pudín mestizo ancestral elaborado con harina de maíz, leche fresca de coco, papelón y un manto aromático de canela en polvo.',
+    '/images/gastronomia/majarete.jpg',
+  ],
+]
+
+const drinks = [
+  [
+    'Papelón con limón helado',
+    'El refresco nacional por excelencia: melaza pura de caña disuelta con abundante jugo de limón criollo recién exprimido y hielo picado.',
+    '/images/gastronomia/papelon-con-limon.jpg',
+  ],
+  [
+    'Chicha criolla venezolana',
+    'Bebida cremosa y espesa de arroz o pasta con leche y azúcar, servida bien fría en vaso alto con cascadas de leche condensada y canela.',
+    '/images/gastronomia/chicha-venezolana.jpg',
+  ],
+  [
+    'Cocada playera tradicional',
+    'Emulsión helada y refrescante de pulpa fresca de coco rallado con agua de coco, leche y un toque de canela frente a la brisa marina.',
+    '/images/gastronomia/cocada-playera.jpg',
+  ],
+  [
+    'Guarapo de caña fresca',
+    'El jugo virgen recién extraído en el trapiche de caña de azúcar con hielo picado y un chorrito de limón criollo para cortar el dulzor.',
+    '/images/gastronomia/guarapo-de-cana.jpg',
+  ],
+  [
+    'Ponche Crema tradicional',
+    'La bebida navideña y festiva creada por Eliodoro González P. a base de leche, huevos, azúcar y fino ron añejo venezolano.',
+    '/images/gastronomia/ponche-crema.jpg',
+  ],
 ]
 
 export function Gastronomy() {
@@ -100,7 +181,7 @@ export function Gastronomy() {
                         alt={`Fotografía de ${name}`}
                         width={176}
                         height={112}
-                        className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-110 cursor-pointer"
+                        className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-[1.35] cursor-pointer"
                       />
                     </div>
                   ) : (
@@ -118,20 +199,24 @@ export function Gastronomy() {
           <div className="space-y-16">
             <div>
               <h3 className="mb-8 text-sm uppercase tracking-[0.3em] text-primary">Sopas y hervidos</h3>
-              <div className="space-y-7">
-                <div className="mb-8 overflow-hidden rounded-sm aspect-[16/9] w-full bg-background/40">
-                  <Image
-                    src="/images/gastronomia/sancocho-de-res.jpg"
-                    alt="Sancocho criollo venezolano de res a la leña con verduras"
-                    width={720}
-                    height={420}
-                    className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-105 cursor-pointer"
-                  />
-                </div>
-                {soups.map(([name, description]) => (
-                  <article key={name}>
-                    <h4 className="text-xl text-foreground">{name}</h4>
-                    <p className="mt-1 leading-relaxed text-muted-foreground">{description}</p>
+              <div className="divide-y divide-border border-y border-border">
+                {soups.map(([name, description, image]) => (
+                  <article key={name} className="grid gap-5 py-6 grid-cols-[1fr_8rem] sm:grid-cols-[1fr_10.5rem] items-center">
+                    <div>
+                      <h4 className="text-xl text-foreground">{name}</h4>
+                      <p className="mt-1.5 max-w-md leading-relaxed text-muted-foreground text-sm sm:text-base">{description}</p>
+                    </div>
+                    {image && (
+                      <div className="overflow-hidden rounded-sm aspect-[16/10] w-full bg-background/40 flex-shrink-0">
+                        <Image
+                          src={image}
+                          alt={`Fotografía de ${name}`}
+                          width={176}
+                          height={112}
+                          className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-[1.35] cursor-pointer"
+                        />
+                      </div>
+                    )}
                   </article>
                 ))}
               </div>
@@ -139,20 +224,24 @@ export function Gastronomy() {
 
             <div className="border-t border-border pt-10">
               <h3 className="mb-8 text-sm uppercase tracking-[0.3em] text-primary">Dulces y postres</h3>
-              <div className="space-y-7">
-                <div className="mb-8 overflow-hidden rounded-sm aspect-[16/9] w-full bg-background/40">
-                  <Image
-                    src="/images/postres.png"
-                    alt="Selección de postres tradicionales venezolanos"
-                    width={720}
-                    height={420}
-                    className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-105 cursor-pointer"
-                  />
-                </div>
-                {sweets.map(([name, description]) => (
-                  <article key={name}>
-                    <h4 className="text-xl text-foreground">{name}</h4>
-                    <p className="mt-1 leading-relaxed text-muted-foreground">{description}</p>
+              <div className="divide-y divide-border border-y border-border">
+                {sweets.map(([name, description, image]) => (
+                  <article key={name} className="grid gap-5 py-6 grid-cols-[1fr_8rem] sm:grid-cols-[1fr_10.5rem] items-center">
+                    <div>
+                      <h4 className="text-xl text-foreground">{name}</h4>
+                      <p className="mt-1.5 max-w-md leading-relaxed text-muted-foreground text-sm sm:text-base">{description}</p>
+                    </div>
+                    {image && (
+                      <div className="overflow-hidden rounded-sm aspect-[16/10] w-full bg-background/40 flex-shrink-0">
+                        <Image
+                          src={image}
+                          alt={`Fotografía de ${name}`}
+                          width={176}
+                          height={112}
+                          className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-[1.35] cursor-pointer"
+                        />
+                      </div>
+                    )}
                   </article>
                 ))}
               </div>
@@ -160,18 +249,27 @@ export function Gastronomy() {
 
             <div className="border-t border-border pt-10">
               <h3 className="mb-8 text-sm uppercase tracking-[0.3em] text-primary">Bebidas tradicionales</h3>
-              <div className="mb-8 overflow-hidden rounded-sm aspect-[16/9] w-full bg-background/40">
-                <Image
-                  src="/images/bebidas.png"
-                  alt="Bebidas tradicionales venezolanas, papelón con limón, chicha y cocada"
-                  width={720}
-                  height={420}
-                  className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-105 cursor-pointer"
-                />
+              <div className="divide-y divide-border border-y border-border">
+                {drinks.map(([name, description, image]) => (
+                  <article key={name} className="grid gap-5 py-6 grid-cols-[1fr_8rem] sm:grid-cols-[1fr_10.5rem] items-center">
+                    <div>
+                      <h4 className="text-xl text-foreground">{name}</h4>
+                      <p className="mt-1.5 max-w-md leading-relaxed text-muted-foreground text-sm sm:text-base">{description}</p>
+                    </div>
+                    {image && (
+                      <div className="overflow-hidden rounded-sm aspect-[16/10] w-full bg-background/40 flex-shrink-0">
+                        <Image
+                          src={image}
+                          alt={`Fotografía de ${name}`}
+                          width={176}
+                          height={112}
+                          className="h-full w-full object-cover transition-transform duration-500 ease-out hover:scale-[1.35] cursor-pointer"
+                        />
+                      </div>
+                    )}
+                  </article>
+                ))}
               </div>
-              <p className="leading-relaxed text-muted-foreground">
-                Papelón con limón bien helado, chicha criolla de arroz con leche condensada y canela, chicha andina fermentada de maíz y piña, cocada cremosa y guarapo dulce de caña fresca acompañan la vida cotidiana y las fiestas populares.
-              </p>
             </div>
           </div>
         </div>
