@@ -1,0 +1,74 @@
+[
+  {
+    "step": "1",
+    "title": "La Entrada Monumental de la Caverna",
+    "desc": "La gigantesca boca de 23 metros de alto por donde penetra la luz y la selva",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/guacharo/1.jpg",
+    "sizeKb": 2767,
+    "wikimediaTitle": "File:Cueva del guácharo.JPG"
+  },
+  {
+    "step": "2",
+    "title": "El Salón de Humboldt",
+    "desc": "La primera gran galería de 759 metros de longitud explorada por el sabio prusiano en 1799",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/guacharo/2.jpg",
+    "sizeKb": 1938,
+    "wikimediaTitle": "File:Cuevas del Guacharo.jpg"
+  },
+  {
+    "step": "3",
+    "title": "Catedral de Calcita y Estalactitas",
+    "desc": "Columnas, velos y cortinas de calcita esculpidas gota a gota durante millones de años",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/guacharo/3.jpg",
+    "sizeKb": 1935,
+    "wikimediaTitle": "File:Turistas en la Cueva Del Guacharo, Caripe.jpg"
+  },
+  {
+    "step": "4",
+    "title": "El Guácharo (Steatornis caripensis)",
+    "desc": "El ave cavernícola nocturna que se orienta en la oscuridad absoluta por ecolocalización",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/guacharo/4.jpg",
+    "sizeKb": 3144,
+    "wikimediaTitle": "File:Steatornis caripensis MHNT ZON STEA 1.jpg"
+  },
+  {
+    "step": "5",
+    "title": "El Vuelo Nocturno de Salida",
+    "desc": "Al caer la tarde, miles de guácharos salen en una nube viva a buscar semillas en el bosque",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/guacharo/5.jpg",
+    "sizeKb": 2473,
+    "wikimediaTitle": "File:P1010532mod.jpg"
+  },
+  {
+    "step": "6",
+    "title": "Río Subterráneo de la Caverna",
+    "desc": "Corrientes de agua cristalina que atraviesan las profundidades del sistema kárstico",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/guacharo/6.jpg",
+    "sizeKb": 236,
+    "wikimediaTitle": "File:Cueva de los guácharos (5144603128).jpg"
+  },
+  {
+    "step": "7",
+    "title": "Monumento Natural Alejandro de Humboldt",
+    "desc": "El primer Monumento Natural decretado en Venezuela en 1949 en honor al científico universal",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/guacharo/7.jpg",
+    "sizeKb": 322,
+    "wikimediaTitle": "File:La Cueva del Guácharo.jpg"
+  },
+  {
+    "step": "9",
+    "title": "Caripe: El Jardín de Oriente",
+    "desc": "Valle de clima fresco, cafetales de sombra y flores de montaña en las faldas del parque",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/guacharo/9.jpg",
+    "sizeKb": 2281,
+    "wikimediaTitle": "File:Iglesia de San Agustin, Caripe, Estado Monagas.jpg"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "step": "1",
+    "title": "Playa Grande de Choroní",
+    "desc": "La bahía más famosa de Aragua, con arenas doradas, olas vivas y su extenso palmar de cocoteros",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/choroni/1.jpg",
+    "sizeKb": 1829,
+    "wikimediaTitle": "File:Playa Grande-Choroni.jpg"
+  },
+  {
+    "step": "2",
+    "title": "Puerto Colombia y el Muelle de Peñeros",
+    "desc": "El muelle pesquero de donde zarpan las lanchas hacia Chuao, Cepe y Tuja",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/choroni/2.jpg",
+    "sizeKb": 7360,
+    "wikimediaTitle": "File:CHORONI ESTADO ARAGUA 01.JPG"
+  },
+  {
+    "step": "3",
+    "title": "Pueblo Colonial de Choroní",
+    "desc": "Calles coloniales empedradas y casonas de colores fundadas en 1616 al pie de la montaña",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/choroni/3.jpg",
+    "sizeKb": 3282,
+    "wikimediaTitle": "File:Iglesia de Choroni.JPG"
+  },
+  {
+    "step": "4",
+    "title": "Bahía de Cata",
+    "desc": "Una ensenada casi circular perfecta de aguas tranquilas y arenas blancas resguardada por dos cabos",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/choroni/4.jpg",
+    "sizeKb": 1594,
+    "wikimediaTitle": "File:Bahia de cata- estado aragua.JPG"
+  },
+  {
+    "step": "5",
+    "title": "Secado de Cacao en Chuao",
+    "desc": "El patio de la iglesia de Chuao donde se extienden al sol los granos del mejor cacao del mundo",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/choroni/5.jpg",
+    "sizeKb": 26,
+    "wikimediaTitle": "File:Chuao 002.JPG"
+  },
+  {
+    "step": "6",
+    "title": "Playa Cuyagua",
+    "desc": "Bahía oceánica abierta, capital venezolana del surf, donde el río Cuyagua desemboca en el Caribe",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/choroni/6.jpg",
+    "sizeKb": 138,
+    "wikimediaTitle": "File:Cuyagua 000.jpg"
+  },
+  {
+    "step": "7",
+    "title": "Ensenada de Cepe y Tuja",
+    "desc": "Caletas solitarias de aguas esmeralda y arrecifes coralinos resguardadas entre farallones verdes",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/choroni/7.jpg",
+    "sizeKb": 409,
+    "wikimediaTitle": "File:Playa de Cepe.JPG"
+  },
+  {
+    "step": "8",
+    "title": "Parque Nacional Henri Pittier",
+    "desc": "El primer parque nacional de Venezuela (1937), donde la selva nublada corona la cordillera",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/choroni/8.jpg",
+    "sizeKb": 1442,
+    "wikimediaTitle": "File:Henri Pittier N.P. (2003).jpg"
+  },
+  {
+    "step": "10",
+    "title": "Atardecer desde el Mirador del Cristo",
+    "desc": "Puesta de sol dorada sobre el mar abierto desde el morro rocoso de Puerto Colombia",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/choroni/10.jpg",
+    "sizeKb": 1740,
+    "wikimediaTitle": "File:Atardecer en Choroni.JPG"
+  }
+]

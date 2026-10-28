@@ -1,0 +1,92 @@
+[
+  {
+    "step": "1",
+    "title": "Playa Colorada",
+    "desc": "Arenas rojizas y aguas cristalinas bajo la sombra de los cocotales",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/mochima/1.jpg",
+    "sizeKb": 1400,
+    "wikimediaTitle": "File:Venezuela - Mochima - Playa Colorada.jpg"
+  },
+  {
+    "step": "2",
+    "title": "Playa Blanca y Ensenada de Mochima",
+    "desc": "Caleta protegida de arena blanca y aguas transparentes como una piscina",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/mochima/2.jpg",
+    "sizeKb": 2813,
+    "wikimediaTitle": "File:Playa Blanca Mochima 2026.jpg"
+  },
+  {
+    "step": "3",
+    "title": "Avistamiento de Delfines en el Golfo",
+    "desc": "Manadas de delfines nariz de botella surcando las aguas calmas del parque",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/mochima/3.jpg",
+    "sizeKb": 1486,
+    "wikimediaTitle": "File:Paseo de los delfines, Parque Nacional Mochima.JPG"
+  },
+  {
+    "step": "4",
+    "title": "Mirador Altos de Santa Fe",
+    "desc": "Las montañas de la Cordillera de la Costa sumergiéndose directamente en el Mar Caribe",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/mochima/4.jpg",
+    "sizeKb": 719,
+    "wikimediaTitle": "File:Mochima park from the hills of Los Altos de Santa Fe.jpg"
+  },
+  {
+    "step": "5",
+    "title": "Isla de Plata y sus Arrecifes",
+    "desc": "Famoso cayo de aguas esmeralda donde según la leyenda piratas enterraban sus tesoros",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/mochima/5.jpg",
+    "sizeKb": 892,
+    "wikimediaTitle": "File:Isla de Plata.JPG"
+  },
+  {
+    "step": "6",
+    "title": "Playa El Faro e Islas Chimanas",
+    "desc": "Ensenada de aguas turquesas entre acantilados áridos y cactus costeros",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/mochima/6.jpg",
+    "sizeKb": 898,
+    "wikimediaTitle": "File:Playa el Faro Puerto La Cruz Mochima - panoramio.jpg"
+  },
+  {
+    "step": "7",
+    "title": "Punta Aguirre y Farallones Marinos",
+    "desc": "Escarpes rocosos donde anidan pelícanos y alcatraces sobre el mar",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/mochima/7.jpg",
+    "sizeKb": 2084,
+    "wikimediaTitle": "File:Punta Aguirre, Blanca Beach, Mochima National Park, Sucre State, Venezuela 2026 (1) (cropped).jpg"
+  },
+  {
+    "step": "8",
+    "title": "La Bahía de Mochima y el Pueblo Pesquero",
+    "desc": "Pintoresca ensenada abrigada del viento donde atracan los peñeros de pescadores",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/mochima/8.jpg",
+    "sizeKb": 161,
+    "wikimediaTitle": "File:Bahía de Mochima, Estado Sucre, Venezuela 2026.jpg"
+  },
+  {
+    "step": "9",
+    "title": "Ocaso en Isla de Plata",
+    "desc": "El sol descendiendo entre palmeras y destellos dorados sobre el mar sereno",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/mochima/9.jpg",
+    "sizeKb": 1468,
+    "wikimediaTitle": "File:Atardecer en Isla de Plata, Parque Nacional Mochima.JPG"
+  },
+  {
+    "step": "10",
+    "title": "Crepúsculo en el Mar Caribe Oriental",
+    "desc": "La cordillera y las islas recortadas en tonos púrpura sobre el horizonte",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/mochima/10.jpg",
+    "sizeKb": 3059,
+    "wikimediaTitle": "File:Atardecer en Mochima.JPG"
+  }
+]

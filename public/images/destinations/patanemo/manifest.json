@@ -1,0 +1,56 @@
+[
+  {
+    "step": "1",
+    "title": "Bahía de Patanemo",
+    "desc": "Amplia ensenada semicircular de aguas cristalinas y cocoteros custodiada por la cordillera de San Esteban",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/patanemo/1.jpg",
+    "sizeKb": 1526,
+    "wikimediaTitle": "File:Playa patanemo estado Carabobo.jpg"
+  },
+  {
+    "step": "3",
+    "title": "Isla Larga y Arrecifes de San Esteban",
+    "desc": "La joya insular de Puerto Cabello, con aguas de tono turquesa claro y arenas de coral",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/patanemo/3.jpg",
+    "sizeKb": 2712,
+    "wikimediaTitle": "File:Isla Larga Edo. Carabobo.JPG"
+  },
+  {
+    "step": "5",
+    "title": "Isla Santo Domingo e Islotes del Parque",
+    "desc": "Pequeños cayos desiertos rodeados de fondos marinos cristalinos y peces de arrecife",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/patanemo/5.jpg",
+    "sizeKb": 937,
+    "wikimediaTitle": "File:Isla larga, estado carabobo.jpg"
+  },
+  {
+    "step": "6",
+    "title": "Parque Nacional San Esteban",
+    "desc": "El pulmón verde de 44.050 hectáreas que une la cordillera de la costa con el Caribe",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/patanemo/6.jpg",
+    "sizeKb": 1596,
+    "wikimediaTitle": "File:Rio San Esteban 1.JPG"
+  },
+  {
+    "step": "8",
+    "title": "Playa Quizandal y el Embarcadero",
+    "desc": "Playa de aguas mansas y muelle de lanchas que conectan tierra firme con Isla Larga",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/patanemo/8.jpg",
+    "sizeKb": 715,
+    "wikimediaTitle": "File:Playa quizandal (Pto Cabello - Carabobo) 2.jpg"
+  },
+  {
+    "step": "10",
+    "title": "Crepúsculo en la Costa de Carabobo",
+    "desc": "El ocaso tiñendo de oro y fuego las montañas costeras y el mar de Puerto Cabello",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/patanemo/10.jpg",
+    "sizeKb": 860,
+    "wikimediaTitle": "File:Atardecer en el malecón de Puerto Cabello.JPG"
+  }
+]

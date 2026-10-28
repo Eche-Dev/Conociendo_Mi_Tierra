@@ -1,0 +1,92 @@
+[
+  {
+    "step": "1",
+    "title": "La Cordillera del Waraira Repano",
+    "desc": "La majestuosa muralla verde de 2.765 metros que custodia y abraza el valle de Caracas",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/waraira-repano/1.jpg",
+    "sizeKb": 2314,
+    "wikimediaTitle": "File:Vista del oeste de Caracas.JPG"
+  },
+  {
+    "step": "2",
+    "title": "Teleférico Waraira Repano",
+    "desc": "Las cabinas panorámicas trepando por la montaña desde la ciudad hasta la cresta",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/waraira-repano/2.jpg",
+    "sizeKb": 1203,
+    "wikimediaTitle": "File:Caracas waraira repano.JPG"
+  },
+  {
+    "step": "3",
+    "title": "Hotel Humboldt y la Cresta de la Montaña",
+    "desc": "La joya de la arquitectura moderna venezolana inaugurada en 1956 flotando entre la niebla",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/waraira-repano/3.jpg",
+    "sizeKb": 2044,
+    "wikimediaTitle": "File:Hotel Humbolt eb el Parque Nacional Waraira Repano de Caracas.jpg"
+  },
+  {
+    "step": "4",
+    "title": "Pico Naiguatá (2.765 m)",
+    "desc": "El techo de la Cordillera de la Costa y su cruz emblemática asomada al Mar Caribe",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/waraira-repano/4.jpg",
+    "sizeKb": 2496,
+    "wikimediaTitle": "File:Pico Naiguata 1.jpg"
+  },
+  {
+    "step": "5",
+    "title": "Ruta de Sabas Nieves",
+    "desc": "El sendero histórico donde miles de caraqueños ascienden diariamente a respirar el aire de montaña",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/waraira-repano/5.jpg",
+    "sizeKb": 3167,
+    "wikimediaTitle": "File:Caida de agua.- Sabas Nieves.JPG"
+  },
+  {
+    "step": "6",
+    "title": "Selva Nublada y Helechos Gigantes",
+    "desc": "Santuario botánico de orquídeas, bromelias y helechos arborescentes en la vertiente norte",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/waraira-repano/6.jpg",
+    "sizeKb": 899,
+    "wikimediaTitle": "File:Hermosas flores en la montaña (Parque Nacional Waraira Repano, Venezuela).jpg"
+  },
+  {
+    "step": "7",
+    "title": "La Silla de Caracas y Picos Gemelos",
+    "desc": "La impresionante depresión orográfica entre el Pico Oriental y el Pico Occidental",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/waraira-repano/7.jpg",
+    "sizeKb": 537,
+    "wikimediaTitle": "File:Caribbean Sea, Avila Mt, Caracas Panorama.jpg"
+  },
+  {
+    "step": "8",
+    "title": "Fortín de La Cumbre y Camino Real",
+    "desc": "Fortificaciones coloniales del siglo XVIII que protegían el paso real entre La Guaira y Caracas",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/waraira-repano/8.jpg",
+    "sizeKb": 3587,
+    "wikimediaTitle": "File:Fortín San Joaquín De La Cumbre.jpg"
+  },
+  {
+    "step": "9",
+    "title": "Balcón de Dos Horizontes: Mar y Ciudad",
+    "desc": "El único mirador donde se contempla a la vez el mar Caribe al norte y la metrópoli al sur",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/waraira-repano/9.jpg",
+    "sizeKb": 591,
+    "wikimediaTitle": "File:Picos Occidental, Oriental, Goering y Naiguatá.JPG"
+  },
+  {
+    "step": "10",
+    "title": "Atardecer y Luces de Caracas desde la Cima",
+    "desc": "El crepúsculo dorado sobre el valle de Caracas encendiendo el mar de luces de la capital",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/waraira-repano/10.jpg",
+    "sizeKb": 1036,
+    "wikimediaTitle": "File:Atardecer en Caracas 2.jpg"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "step": "1",
+    "title": "Los Médanos de la Soledad",
+    "desc": "Dunas de arena eólica que se alzan insólitamente en medio de la sabana plana de Apure",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/medanos-soledad/1.jpg",
+    "sizeKb": 676,
+    "wikimediaTitle": "File:Médanos La Soledad - Edo. Apure7.JPG"
+  },
+  {
+    "step": "2",
+    "title": "Crestas Onduladas por los Alisios",
+    "desc": "Ondulaciones y curvas de arena fina esculpidas por el viento alisio que recorre el llano",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/medanos-soledad/2.jpg",
+    "sizeKb": 5462,
+    "wikimediaTitle": "File:Medanos de la Soledad.jpg"
+  },
+  {
+    "step": "6",
+    "title": "Fauna Silvestre de la Llanura Apureña",
+    "desc": "Chigüires, venados y aves acuáticas congregados alrededor de las fuentes de agua",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/medanos-soledad/6.jpg",
+    "sizeKb": 3198,
+    "wikimediaTitle": "File:Venado que parece de plastico.JPG"
+  },
+  {
+    "step": "7",
+    "title": "La Chalana del Capanaparo",
+    "desc": "La balsa fluvial tradicional que transporta viajeros y vehículos hacia la soledad del sur",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/medanos-soledad/7.jpg",
+    "sizeKb": 1040,
+    "wikimediaTitle": "File:Capanaparo Sunset.JPG"
+  },
+  {
+    "step": "8",
+    "title": "Horizontes del Parque Santos Luzardo",
+    "desc": "La llanura abierta y desolada que inspiró a Rómulo Gallegos en su novela Doña Bárbara",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/medanos-soledad/8.jpg",
+    "sizeKb": 3937,
+    "wikimediaTitle": "File:Llanos y cielo de Apure.jpg"
+  },
+  {
+    "step": "10",
+    "title": "Atardecer de Cobre sobre las Dunas",
+    "desc": "El crepúsculo proyectando sombras infinitas sobre el mar de arena y la sabana dorada",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/medanos-soledad/10.jpg",
+    "sizeKb": 1040,
+    "wikimediaTitle": "File:Capanaparo Sunset.JPG"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "step": "1",
+    "title": "Playa Medina",
+    "desc": "La bahía de cocoteros más perfecta de Venezuela, con arena tostada y mar verde esmeralda",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/paria/1.jpg",
+    "sizeKb": 2200,
+    "wikimediaTitle": "File:Sucre, Playa Medina.JPG"
+  },
+  {
+    "step": "2",
+    "title": "Playa Pui Pui",
+    "desc": "Extensa playa virgen oceánica y santuario de anidación de tortugas marinas",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/paria/2.jpg",
+    "sizeKb": 872,
+    "wikimediaTitle": "File:Noche en la playa.JPG"
+  },
+  {
+    "step": "3",
+    "title": "Haciendas Cacaoteras de Paria",
+    "desc": "Plantaciones del cacao criollo fino de aroma de fama mundial bajo sombra selvática",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/paria/3.jpg",
+    "sizeKb": 509,
+    "wikimediaTitle": "File:Cacao Pariano..JPG"
+  },
+  {
+    "step": "4",
+    "title": "Selva Húmeda y Montañas del Parque Nacional",
+    "desc": "Bosques nublados costeros donde la selva tropical abraza las ensenadas del mar",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/paria/4.jpg",
+    "sizeKb": 464,
+    "wikimediaTitle": "File:Paria.jpg"
+  },
+  {
+    "step": "5",
+    "title": "San Juan de las Galdonas",
+    "desc": "Pueblo de pescadores encaramado entre colinas selváticas y ensenadas oceánicas",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/paria/5.jpg",
+    "sizeKb": 141,
+    "wikimediaTitle": "File:Atardecer en San Juan De Las Galdonas - Edo. Sucre.JPG"
+  },
+  {
+    "step": "6",
+    "title": "Peñeros y Costas de Río Caribe",
+    "desc": "Coloridas embarcaciones de pescadores artesanales en la bahía de Río Caribe",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/paria/6.jpg",
+    "sizeKb": 278,
+    "wikimediaTitle": "File:Niños riocaribeños.JPG"
+  },
+  {
+    "step": "8",
+    "title": "Aguas Termales de Paria",
+    "desc": "Pozas naturales de aguas tibias sulfuradas rodeadas de cascadas y jardines tropicales",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/paria/8.jpg",
+    "sizeKb": 4768,
+    "wikimediaTitle": "File:Moises y sus aguas.jpg"
+  },
+  {
+    "step": "10",
+    "title": "Crepúsculo sobre la Costa de Paria",
+    "desc": "El sol despidiéndose tras los cocotales y el oleaje verde de la Tierra de Gracia",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/paria/10.jpg",
+    "sizeKb": 1731,
+    "wikimediaTitle": "File:Playa Medina; Edo. Sucre..JPG"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "step": "1",
+    "id": "proa-roraima",
+    "title": "La Proa del Roraima",
+    "place": "Sierra de Pacaraima · La imponente proa de piedra entre las nubes (2.810 m)",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/roraima/1.jpg",
+    "width": 2048,
+    "height": 2689,
+    "sizeKb": 19070,
+    "wikimediaTitle": "File:Cyathea akawaiorum P J Edwards in Holttum & P J Edwards nmnhbotany 2077738 NMNH-00048752.jpg"
+  },
+  {
+    "step": "2",
+    "id": "la-rampa",
+    "title": "La Rampa de Ascenso",
+    "place": "Pared occidental · El sendero natural que permite subir a la cumbre",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/roraima/2.jpg",
+    "width": 2048,
+    "height": 1539,
+    "sizeKb": 2361,
+    "wikimediaTitle": "File:Rampa del Roraima.jpg"
+  },
+  {
+    "step": "3",
+    "id": "valle-de-cristales",
+    "title": "El Valle de los Cristales",
+    "place": "Meseta superior · Tapiz de millones de cristales de cuarzo puro",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/roraima/3.jpg",
+    "width": 2048,
+    "height": 1538,
+    "sizeKb": 1140,
+    "wikimediaTitle": "File:Mount Roraima, Venezuela (12372225505).jpg"
+  },
+  {
+    "step": "4",
+    "id": "jacuzzis-roraima",
+    "title": "Los Jacuzzis Naturales",
+    "place": "Cumbre del tepuy · Pozas de cuarzo de agua helada y transparente",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/roraima/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 1924,
+    "wikimediaTitle": "File:Jacuzzi En Roraima.jpg"
+  },
+  {
+    "step": "5",
+    "id": "la-ventana-kukenan",
+    "title": "La Ventana y el Abismo de Kukenán",
+    "place": "Borde este · Precipicio vertical de 1.000 m frente al tepuy Kukenán",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/roraima/5.jpg",
+    "width": 2048,
+    "height": 1365,
+    "sizeKb": 1704,
+    "wikimediaTitle": "File:Monte Roraima e Kukenan Tepui noturno.jpg"
+  },
+  {
+    "step": "6",
+    "id": "rocas-mundo-perdido",
+    "title": "Laberinto del Mundo Perdido",
+    "place": "Piso del tepuy · Esculturas de arenisca negra talladas durante milenios",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/roraima/6.jpg",
+    "width": 2048,
+    "height": 1538,
+    "sizeKb": 1140,
+    "wikimediaTitle": "File:Mount Roraima, Venezuela (12372225505).jpg"
+  },
+  {
+    "step": "7",
+    "id": "punto-triple",
+    "title": "El Hito del Punto Triple",
+    "place": "Meseta superior · Frontera geodésica de Venezuela, Brasil y Guyana",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/roraima/7.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 112,
+    "wikimediaTitle": "File:Triple Point, Mount Roraima.jpg"
+  },
+  {
+    "step": "8",
+    "id": "flora-fauna-endemica",
+    "title": "La Ranita Negra y Plantas Carnívoras",
+    "place": "Cumbre aislada · Especies prehistóricas que no existen en ningún otro lugar",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/roraima/8.jpg",
+    "width": 2048,
+    "height": 1405,
+    "sizeKb": 850,
+    "wikimediaTitle": "File:Heliamphora nutans (Habitus).jpg"
+  }
+]

@@ -66,19 +66,53 @@ const traditions = [
   {
     id: 'afrovenezolana',
     title: 'Espiritualidad Afrovenezolana',
-    eyebrow: 'Miranda · Vargas · Aragua · Yaracuy',
-    coords: 'Costa y Valles Centrales',
+    eyebrow: 'Miranda · Vargas · Aragua · Yaracuy · Zulia',
+    coords: 'Costas y Valles Cimarrones',
     tagline: 'El repique del tambor, los Diablos Danzantes y la memoria cimarrona',
-    image: '/images/choroni.png',
-    alt: 'Costas de Aragua donde se celebran las fiestas y tambores afrovenezolanos',
+    image: '/images/afrovenezolana/san-juan-curiepe.jpg',
+    alt: 'Devoción a San Juan Bautista con banderas y tambores en Curiepe, estado Miranda, Venezuela',
     description:
-      'Nacida de la resistencia de los esclavizados que llegaron a las plantaciones de cacao y caña. Se manifiesta con vigor en los Diablos Danzantes de Yare (Patrimonio Cultural Inmaterial de la Humanidad), en las fiestas de San Juan Bautista al son del cumaco y en la adoración a San Benito de Palermo en las riberas del Lago de Maracaibo.',
+      'Nacida del heroísmo de los cimarrones que fundaron comunidades libres en los cumbes. La fe afrodescendiente late en el sangueo de San Juan Bautista («San Juan to\' lo tiene, to\' lo da»), en el chimbanguele frenético de San Benito de Palermo a orillas del Lago de Maracaibo, en los Diablos Danzantes postrados ante el Santísimo y en el tambor mina que despierta la memoria de los ancestros.',
     facts: [
-      { label: 'Patrimonio UNESCO', value: 'Diablos de Yare' },
-      { label: 'Ritmo Sagrado', value: 'Tambor Cumaco' },
-      { label: 'Santos Clave', value: 'San Juan y Benito' },
+      { label: 'Patrimonio UNESCO', value: 'Diablos de Corpus' },
+      { label: 'Voz Sagrada', value: 'Tambor & Sangueo' },
+      { label: 'Santos Negros', value: 'San Juan & Benito' },
     ],
-    hasTour: false,
+    hasTour: true,
+  },
+  {
+    id: 'cristianismo-evangelico',
+    title: 'Cristianismo Evangélico',
+    eyebrow: 'Caracas · Zulia · Carabobo · Lara · Guayana',
+    coords: 'Presencia en Toda Venezuela',
+    tagline: 'Alabanza vibrante, fe comunitaria y transformación social',
+    image: '/images/evangelica/marcha-para-jesus.jpg',
+    alt: 'Multitud de creyentes en la Marcha para Jesús en Venezuela con banderas y alabanzas',
+    description:
+      'Un movimiento de fe que congrega a millones en barriadas, pueblos y ciudades del país. Desde la histórica Iglesia El Redentor (1898) hasta los megatemplos de Maranatha y las Asambleas de Dios, su vida se distingue por la Marcha para Jesús cada 12 de octubre, vigilias de oración intercesora por el país, bandas de alabanza contemporánea y comedores solidarios para los más vulnerables.',
+    facts: [
+      { label: 'Marcha Anual', value: 'Marcha para Jesús' },
+      { label: 'Pionera (1898)', value: 'El Redentor' },
+      { label: 'Comunidad', value: 'Comedores & Fe' },
+    ],
+    hasTour: true,
+  },
+  {
+    id: 'pluralidad-religiosa',
+    title: 'Pluralidad Religiosa',
+    eyebrow: 'Caracas · Coro · Oriente · Los Andes',
+    coords: 'Tolerancia y Convivencia',
+    tagline: 'Grandes templos, mezquitas y sinagogas de la Venezuela cosmopolita',
+    image: '/images/pluralidad/mezquita-caracas-atardecer.jpg',
+    alt: 'Cúpula y minarete de la Mezquita Ibrahim Al-Ibrahim en Caracas al atardecer',
+    description:
+      'Venezuela ha sido históricamente tierra de acogida para todas las creencias del mundo: la imponente Mezquita Ibrahim Al-Ibrahim de Caracas (la segunda mayor de Sudamérica), la centenaria Gran Sinagoga Tiféret Israel en Maripérez, el Templo de Caracas de los Santos de los Últimos Días en Caurimare, templos maronitas, budistas y adventistas, conviviendo en paz en las mismas calles de la nación.',
+    facts: [
+      { label: 'Mezquita de Caracas', value: '2da en Sudamérica' },
+      { label: 'Sinagoga Tiféret', value: 'Fundada en 1954' },
+      { label: 'Convivencia', value: 'Paz y Tolerancia' },
+    ],
+    hasTour: true,
   },
 ]
 

@@ -1,0 +1,122 @@
+[
+  {
+    "step": "1",
+    "id": "cayo-sombrero",
+    "title": "Cayo Sombrero",
+    "place": "Parque Nacional Morrocoy · El cayo más emblemático con sus palmeras y aguas turquesas",
+    "filename": "1.jpg",
+    "webPath": "/images/destinations/morrocoy/1.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 2006,
+    "wikimediaTitle": "File:CAYO SOMBRERO PARQUE NACIONAL MORROCOY FALCON 01.JPG"
+  },
+  {
+    "step": "2",
+    "id": "cayo-borracho",
+    "title": "Cayo Borracho y Aguas Cristalinas",
+    "place": "Sector norte · Aguas cristalinas y orilla solitaria de arena de coral",
+    "filename": "2.jpg",
+    "webPath": "/images/destinations/morrocoy/2.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3410,
+    "wikimediaTitle": "File:Morrocoy 110514-3.JPG"
+  },
+  {
+    "step": "3",
+    "id": "cayo-sal",
+    "title": "Cayo Sal y la Capilla Marina",
+    "place": "Morrocoy interior · Su laguna salobre, arrecifes y capilla",
+    "filename": "3.jpg",
+    "webPath": "/images/destinations/morrocoy/3.jpg",
+    "width": 2048,
+    "height": 1587,
+    "sizeKb": 2706,
+    "wikimediaTitle": "File:Hoja 6548 - TUCACAS, CHICHIRIVICHE, MORROCOY - DCN 1967.jpg"
+  },
+  {
+    "step": "4",
+    "id": "los-juanes",
+    "title": "Los Juanes (La Piscina Natural)",
+    "place": "Bajo natural · Aguas transparentes de baja profundidad donde fondean las lanchas",
+    "filename": "4.jpg",
+    "webPath": "/images/destinations/morrocoy/4.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 944,
+    "wikimediaTitle": "File:Piscina Los Juanes.jpg"
+  },
+  {
+    "step": "5",
+    "id": "cayo-playuela",
+    "title": "Cayo Playuela y Playuelita",
+    "place": "Zona de arrecifes · Playas gemelas protegidas ideales para snorkel",
+    "filename": "5.jpg",
+    "webPath": "/images/destinations/morrocoy/5.jpg",
+    "width": 2048,
+    "height": 1361,
+    "sizeKb": 1318,
+    "wikimediaTitle": "File:Paraiso Venezolano, Cayo Playuelita.jpg"
+  },
+  {
+    "step": "6",
+    "id": "cayo-peraza",
+    "title": "Cayo Peraza",
+    "place": "Pequeño atolón virgen rodeado de corales vivos",
+    "filename": "6.jpg",
+    "webPath": "/images/destinations/morrocoy/6.jpg",
+    "width": 2048,
+    "height": 1587,
+    "sizeKb": 2706,
+    "wikimediaTitle": "File:Hoja 6548 - TUCACAS, CHICHIRIVICHE, MORROCOY - DCN 1967.jpg"
+  },
+  {
+    "step": "7",
+    "id": "cueva-del-indio",
+    "title": "Cueva del Indio y Petroglifos",
+    "place": "Farallones del parque · Paredes de roca calcárea y arte rupestre prehispánico",
+    "filename": "7.jpg",
+    "webPath": "/images/destinations/morrocoy/7.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 371,
+    "wikimediaTitle": "File:CUEVA EL INDIO - UNA MARAVILLA EN EL ESTADO FALCÓN.jpg"
+  },
+  {
+    "step": "8",
+    "id": "canales-de-manglar",
+    "title": "Laberinto de Manglares y Caño León",
+    "place": "Zona marina · Túneles de mangle rojo y refugio de aves acuáticas",
+    "filename": "8.jpg",
+    "webPath": "/images/destinations/morrocoy/8.jpg",
+    "width": 2048,
+    "height": 1536,
+    "sizeKb": 3685,
+    "wikimediaTitle": "File:Morrocoy 110514-11.JPG"
+  },
+  {
+    "step": "9",
+    "id": "cayo-muerto",
+    "title": "Cayo Muerto y sus Palmeras",
+    "place": "Frente a Chichiriviche · Extenso palmar de cocoteros y arena blanca",
+    "filename": "9.jpg",
+    "webPath": "/images/destinations/morrocoy/9.jpg",
+    "width": 2048,
+    "height": 1587,
+    "sizeKb": 2706,
+    "wikimediaTitle": "File:Hoja 6548 - TUCACAS, CHICHIRIVICHE, MORROCOY - DCN 1967.jpg"
+  },
+  {
+    "step": "10",
+    "id": "atardecer-morrocoy",
+    "title": "Atardecer Dorado en Morrocoy",
+    "place": "Golfo Triste · El crepúsculo cayendo sobre los cayos y el Mar Caribe",
+    "filename": "10.jpg",
+    "webPath": "/images/destinations/morrocoy/10.jpg",
+    "width": 2048,
+    "height": 1155,
+    "sizeKb": 566,
+    "wikimediaTitle": "File:02 - Morrocoy.jpg"
+  }
+]
