@@ -300,6 +300,7 @@ export const IMMERSIVE_TOURS: Record<string, ImmersiveTour> = {
         fact: { label: 'Flora nativa', value: 'Cují yaque & Cardonales' },
         image: '/images/destinations/medanos-de-coro/4.jpg',
         alt: 'Árbol de cují resistiendo en el paisaje árido de Falcón',
+        focalPoint: 'center 68%',
       },
       {
         id: 'inmensidad-dunar',
@@ -1576,6 +1577,7 @@ export const IMMERSIVE_TOURS: Record<string, ImmersiveTour> = {
         fact: { label: 'Crecimiento mineral', value: '≈ 1 cm cada 100 años' },
         image: '/images/destinations/guacharo/3.jpg',
         alt: 'Estalactitas y estalagmitas monumentales en el interior de la Cueva del Guácharo',
+        focalPoint: 'center 26%',
       },
       {
         id: 'el-ave-guacharo',
@@ -2588,6 +2590,7 @@ export const IMMERSIVE_TOURS: Record<string, ImmersiveTour> = {
           'Al finalizar la tarde tropical, inmensas nubes cumulonimbos se levantan sobre los bosques del sur. La puesta de sol proyecta rayos dorados y violetas que encienden el espejo oscuro del Caroní, mientras el eco de los saltos de agua compone la sinfonía eterna de la tierra del hierro y el agua bendita.',
         fact: { label: 'Luz del sur', value: 'Atardeceres ecuatoriales de colores vibrantes' },
         image: '/images/destinations/cachamay/10.jpg',
+        focalPoint: 'center 70%',
         alt: 'Dramático atardecer con nubes de tormenta y reflejos dorados sobre el río Caroní',
       },
     ],
@@ -2639,6 +2642,7 @@ export const IMMERSIVE_TOURS: Record<string, ImmersiveTour> = {
           'Internándose más profundamente en la serranía se alcanza el portal de Sorte. Rodeado por árboles gigantescos de ceiba e indio desnudo, este altar congrega a los creyentes más tradicionales. El aroma del tabaco encendido, la mirra y las oraciones susurradas resuenan en un ambiente de profunda solemnidad.',
         fact: { label: 'Ambiente', value: 'Respeto místico y comunión con el bosque' },
         image: '/images/destinations/sorte-quibayo/4.jpg',
+        focalPoint: 'center 28%',
         alt: 'Estructura ceremonial del Altar Mayor en medio de la espesura del bosque de Sorte',
       },
       {
