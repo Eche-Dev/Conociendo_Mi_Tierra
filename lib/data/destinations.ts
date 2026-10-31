@@ -27,8 +27,8 @@ export const destinations: Destination[] = [
     tagline: 'La Perla del Caribe',
     region: 'Nueva Esparta',
     coords: '11°00′N · 63°55′O',
-    image: '/images/destinations/margarita/02-castillo-san-carlos-borromeo.jpg',
-    alt: 'Fortaleza colonial de piedra sobre una bahía con botes pesqueros al atardecer en Isla de Margarita',
+    image: '/images/destinations/margarita/00-playa-valdez.jpg',
+    alt: 'Playas paradisíacas de arena dorada, aguas cristalinas y palmeras en Isla de Margarita',
     description:
       'Playas de oleaje como Playa El Agua y Parguito, la calma de Juan Griego al atardecer y los manglares de La Restinga, donde se navega por túneles de raíces. Al oeste, la península de Macanao es casi un desierto; al centro, el cerro El Copey se cubre de bosque nublado. Una isla que cabe en un día y no se termina en una vida.',
     facts: [
@@ -88,17 +88,17 @@ export const destinations: Destination[] = [
     region: 'Mérida · Cordillera de los Andes',
     coords: '8°32′N · 71°02′O',
     image: '/images/destinations/sierra-nevada/1.jpg',
-    alt: 'Picos rocosos nevados de la Sierra Nevada de Mérida sobre un páramo de frailejones y una laguna glaciar',
+    alt: 'Panorámica aérea de la Cordillera de los Andes venezolanos con sus valles y cumbres montañosas',
     description:
-      'Picos de casi cinco mil metros, páramos cubiertos de frailejones plateados y lagunas de origen glaciar como Mucubají y la Laguna Negra. El teleférico Mukumbarí sube desde la ciudad de Mérida hasta el Pico Espejo, a 4.765 metros, en uno de los recorridos por cable más largos y altos del mundo. Abajo esperan pueblos de piedra como Los Nevados y Jají.',
+      'Una de las regiones turísticas más emblemáticas y concurridas de Venezuela, conformada por Mérida, Táchira y Trujillo. Famosa por su clima frío y paisajes de alta montaña, reúne hitos como el Pico Bolívar (la mayor cumbre del país a 4.978 m), el Teleférico Mukumbarí (el más alto y segundo más largo del mundo), los parques nacionales Sierra Nevada y Sierra de La Culata, la mítica Laguna de Mucubají y el Pico El Águila.',
     facts: [
       { label: 'Pico Bolívar', value: '4.978 m' },
       { label: 'Teleférico', value: '12,5 km' },
-      { label: 'Parque Nacional', value: '1952' },
+      { label: 'Estados', value: 'Mérida · Táchira · Trujillo' },
     ],
     history: [
-      'Los pueblos timoto-cuicas cultivaron estas montañas en terrazas y consideraban sagradas sus lagunas. Mérida fue fundada en 1558, y en 1813, durante la Campaña Admirable, fue la primera ciudad en aclamar a Simón Bolívar como «Libertador».',
-      'Sus cumbres guardaron glaciares durante milenios. El último, el Humboldt, se redujo hasta desaparecer como glaciar en 2024, convirtiendo a Venezuela en el primer país de la era moderna en perder todos sus hielos: un recordatorio de lo frágil que es este paisaje.',
+      'Pueblos con encanto y cultura: Localidades coloniales de calles empedradas como Jají, Mucuchíes, Bailadores y Peribeca conservan vivas las tradiciones andinas y una gastronomía de montaña con la pizca andina, truchas frescas y dulces artesanales del Mercado Principal de Mérida.',
+      'Religión y monumentos: La devoción de los Andes se refleja en el monumental Monumento a la Virgen de la Paz en Trujillo, la emblemática Capilla de Piedra de Juan Félix Sánchez en San Rafael de Mucuchíes, y festividades centenarias que celebran el arraigo de su gente.',
     ],
   },
   {
@@ -128,7 +128,7 @@ export const destinations: Destination[] = [
     region: 'Delta Amacuro',
     coords: '8°45′N · 61°15′O',
     image: '/images/destinations/delta-orinoco/1.jpg',
-    alt: 'Laberinto de caños y selva inundable en el Delta del Orinoco en Delta Amacuro',
+    alt: 'Indígenas Warao navegando en curiara tradicional por los caños y manglares del Delta del Orinoco',
     description:
       'Antes de entregarse al Atlántico, el Orinoco se abre en un abanico de cientos de caños que atraviesan manglares y selvas de palma moriche. Se recorre en curiara, entre toninas, guacamayas y monos araguatos, durmiendo en campamentos sobre pilotes y escuchando la selva despertar entre la neblina.',
     facts: [
