@@ -16,22 +16,24 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://conociendo-mi-tierr
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: 'Venezuela · Un viaje por la Tierra de Gracia',
+    default: 'Conociendo Mi Tierra · Un viaje por la Tierra de Gracia',
     template: '%s | Conociendo Mi Tierra',
   },
   description:
-    'Un recorrido inmersivo y atlas visual por los 30 grandes destinos de Venezuela: Los Roques, Salto Ángel, Roraima, Mérida, Catatumbo, Morrocoy, Delta del Orinoco, gastronomía, espiritualidad y biodiversidad.',
+    'Un recorrido sonoro y visual por la riqueza de Venezuela: Salto Ángel, Los Roques, Roraima, Los Llanos, sabores criollos y la memoria cultural de un país inolvidable.',
   applicationName: 'Conociendo Mi Tierra',
   authors: [{ name: 'Conociendo Mi Tierra', url: siteUrl }],
   creator: 'Conociendo Mi Tierra',
   publisher: 'Conociendo Mi Tierra',
   keywords: [
     'Venezuela',
+    'Conociendo Mi Tierra',
     'Turismo Venezuela',
     'Salto Ángel',
     'Los Roques',
     'Canaima',
     'Monte Roraima',
+    'Los Llanos',
     'Mérida',
     'Sierra Nevada',
     'Relámpago del Catatumbo',
@@ -49,24 +51,24 @@ export const metadata: Metadata = {
     locale: 'es_VE',
     url: siteUrl,
     siteName: 'Conociendo Mi Tierra',
-    title: 'Venezuela · Un viaje por la Tierra de Gracia',
+    title: 'Conociendo Mi Tierra · Un viaje por la Tierra de Gracia',
     description:
-      'Guía interactiva y atlas visual de Venezuela: 30 destinos inmersivos en 3D, gastronomía ancestral, espiritualidad, tradiciones vivas y naturaleza.',
+      'Un recorrido sonoro y visual por la riqueza de Venezuela: Salto Ángel, Los Roques, Roraima, Los Llanos, sabores criollos y la memoria cultural de un país inolvidable.',
     images: [
       {
-        url: '/images/hero.png',
+        url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: 'Conociendo Mi Tierra - Paisajes y Maravillas de Venezuela',
+        alt: 'Conociendo Mi Tierra · Atardecer en Los Llanos venezolanos',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Venezuela · Un viaje por la Tierra de Gracia',
+    title: 'Conociendo Mi Tierra · Un viaje por la Tierra de Gracia',
     description:
-      'Guía interactiva y atlas visual de Venezuela: 30 destinos inmersivos en 3D, gastronomía, espiritualidad y naturaleza.',
-    images: ['/images/hero.png'],
+      'Un recorrido sonoro y visual por la riqueza de Venezuela: Salto Ángel, Los Roques, Roraima, Los Llanos, sabores criollos y la memoria cultural de un país inolvidable.',
+    images: ['/og-image.jpg'],
   },
   robots: {
     index: true,
@@ -81,8 +83,9 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/icon-light-32x32.png', media: '(prefers-color-scheme: light)' },
-      { url: '/icon-dark-32x32.png', media: '(prefers-color-scheme: dark)' },
+      { url: '/favicon.ico' },
+      { url: '/icon-light-32x32.png', sizes: '32x32', media: '(prefers-color-scheme: light)' },
+      { url: '/icon-dark-32x32.png', sizes: '32x32', media: '(prefers-color-scheme: dark)' },
       { url: '/icon.svg', type: 'image/svg+xml' },
     ],
     apple: '/apple-icon.png',

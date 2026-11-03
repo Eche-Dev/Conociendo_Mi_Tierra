@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: 'Conociendo Mi Tierra · Venezuela',
     short_name: 'Conociendo Mi Tierra',
     description:
-      'Guía interactiva y atlas visual de Venezuela: paisajes, cultura, gastronomía y naturaleza viva.',
+      'Un recorrido sonoro y visual por la riqueza de Venezuela: Salto Ángel, Los Roques, Roraima, Los Llanos, sabores criollos y la memoria cultural de un país inolvidable.',
     start_url: '/',
     display: 'standalone',
     background_color: '#11192a',
@@ -19,6 +19,11 @@ export default function manifest(): MetadataRoute.Manifest {
       {
         src: '/icon-dark-32x32.png',
         sizes: '32x32',
+        type: 'image/png',
+      },
+      {
+        src: '/apple-icon.png',
+        sizes: '180x180',
         type: 'image/png',
       },
       {
