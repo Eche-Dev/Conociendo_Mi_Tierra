@@ -1,34 +1,56 @@
-# Dependencies
+# Dependencias
 node_modules/
 .pnp/
 .pnp.js
+.pnpm-store/
 
-# Next.js
+# Next.js y compilación
 .next/
 out/
-
-# Producción
 build/
+dist/
+.turbo/
+*.tsbuildinfo
 
-# Misc
-.DS_Store
+# Variables de entorno y credenciales (PROTEGER SIEMPRE)
+.env
+.env.*
+!.env.example
 *.pem
+*.key
+*.cert
+*.pfx
+
+# Vercel
+.vercel/
+
+# Registro y logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Variables de entorno
-.env
-.env*.local
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
 
-# Vercel
-.vercel
-
-# Editor / herramientas
-.qodo/
-.pnpm-store/
+# Editores y entornos de desarrollo
 .vscode/
 .idea/
-*.tsbuildinfo
+.qodo/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Temporales y scripts de pruebas
+scratch/
+tmp/
+temp/

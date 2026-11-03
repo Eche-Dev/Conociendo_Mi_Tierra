@@ -3813,6 +3813,7 @@ export const IMMERSIVE_TOURS: Record<string, ImmersiveTour> = {
           'Científico eminente, profesor universitario y terciario franciscano que atendía gratuitamente a los enfermos más necesitados en los barrios de Caracas, comprándoles él mismo las medicinas. Murió trágicamente en 1919 atropellado al salir de una farmacia. El pueblo venezolano lo canonizó en sus corazones un siglo antes de que el Vaticano lo beatificara oficialmente, cubriendo sus altares con millones de placas de agradecimiento por curaciones médicas milagrosas.',
         fact: { label: 'Vocación santa', value: 'Ciencia, Caridad y Fe' },
         image: '/images/catolicismo/jose-gregorio-hernandez.jpg',
+        focalPoint: 'center 12%',
         alt: 'Retrato icónico del Beato Dr. José Gregorio Hernández, el médico de los pobres',
       },
       {
