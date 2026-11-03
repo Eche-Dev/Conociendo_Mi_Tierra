@@ -132,10 +132,6 @@ export function ImmersiveTourViewer({ tour, isOpen, onClose }: ImmersiveTourView
     targetProgressRef.current = Math.max(0, Math.min(maxProgress, targetProgressRef.current + delta))
   }
 
-  const jumpToBeat = (index: number) => {
-    targetProgressRef.current = index
-  }
-
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
       containerRef.current?.requestFullscreen?.()

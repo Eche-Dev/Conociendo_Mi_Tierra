@@ -43,7 +43,6 @@ components/
     epilogue.tsx        Cierre + volver al inicio
   sections/           Reutilizables en páginas de sección
     section-page.tsx    Layout: back-link, eyebrow, título gigante, intro
-    info-card.tsx       Tarjeta imagen + título + texto
 lib/
   data/destinations.ts  Los 29 destinos (fuente de verdad de contenido)
   types.ts              Tipo `Destination`
