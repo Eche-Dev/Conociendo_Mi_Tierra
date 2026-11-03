@@ -90,6 +90,9 @@ export const metadata: Metadata = {
     ],
     apple: '/apple-icon.png',
   },
+  verification: {
+    google: '2eP1uWUcRkT2hYPCCnJ6qUt-qUYH3ECbHy_PPwj3L6M',
+  },
 }
 
 export const viewport: Viewport = {
@@ -131,6 +134,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`${anton.variable} ${sourceSerif.variable} bg-background scroll-smooth`}>
       <head>
+        <meta name="google-site-verification" content="2eP1uWUcRkT2hYPCCnJ6qUt-qUYH3ECbHy_PPwj3L6M" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
