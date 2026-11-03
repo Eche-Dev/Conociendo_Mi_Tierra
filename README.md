@@ -8,7 +8,7 @@
 [![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vercel Deployment](https://img.shields.io/badge/Despliegue-Vercel-black?style=for-the-badge&logo=vercel)](https://conociendo-mi-tierra.vercel.app/)
-[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge)](./LICENSE)
+[![Autor](https://img.shields.io/badge/Autor-Eche--Dev-purple?style=for-the-badge&logo=github)](https://github.com/Eche-Dev)
 
 </div>
 
@@ -97,59 +97,18 @@ conociendo-mi-tierra/
 
 ---
 
-## 🚀 Instalación y Desarrollo Local
+## ☁️ Despliegue en Producción
 
-### Requisitos previos
-- [Node.js](https://nodejs.org/) v20 o superior
-- [pnpm](https://pnpm.io/) (recomendado) o `npm`
+El proyecto se encuentra desplegado y alojado de forma pública en **Vercel**:
 
-### 1. Clonar el repositorio
-```bash
-git clone https://github.com/Eche-Dev/Conociendo_Mi_Tierra.git
-cd Conociendo_Mi_Tierra
-```
-
-### 2. Instalar dependencias
-```bash
-corepack pnpm install
-```
-
-### 3. Iniciar el entorno de desarrollo
-```bash
-corepack pnpm dev
-```
-Abre en tu navegador: [http://localhost:3000](http://localhost:3000)
+- 🌐 **Sitio Web Oficial:** [https://conociendo-mi-tierra.vercel.app](https://conociendo-mi-tierra.vercel.app)
+- 📊 **Métricas:** Vercel Web Analytics activo para medición de visitas y rendimiento.
 
 ---
 
-## 📦 Compilación y Producción
+## 👤 Autor
 
-Para compilar el proyecto y comprobar los tipos antes de desplegar:
-
-```bash
-# Compilar build estático de producción + type-check
-corepack pnpm build
-
-# Probar la versión de producción localmente
-corepack pnpm start
-```
-
----
-
-## ☁️ Despliegue en Vercel
-
-Este proyecto está optimizado para desplegarse con cero configuración en **Vercel**:
-
-1. Haz un fork o sube tus cambios a GitHub.
-2. Importa el proyecto desde el [Dashboard de Vercel](https://vercel.com/new).
-3. Vercel detectará automáticamente Next.js y configurará el build estático.
-4. Cualquier nuevo `push` a la rama `main` disparará un nuevo despliegue automático.
-
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la Licencia **MIT**. Puedes usarlo, estudiarlo y adaptarlo libremente. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+**Proyecto personal y exclusivo** creado, diseñado y desarrollado por **[Eche-Dev](https://github.com/Eche-Dev)**.
 
 ---
 
