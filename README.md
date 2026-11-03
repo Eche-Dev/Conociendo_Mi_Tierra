@@ -1,3 +1,5 @@
+<div align="center">
+
 # Conociendo Mi Tierra 🇻🇪
 ### *Un viaje inmersivo por la Tierra de Gracia*
 
@@ -7,6 +9,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vercel Deployment](https://img.shields.io/badge/Despliegue-Vercel-black?style=for-the-badge&logo=vercel)](https://conociendo-mi-tierra.vercel.app/)
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge)](./LICENSE)
+
+</div>
 
 ---
 
