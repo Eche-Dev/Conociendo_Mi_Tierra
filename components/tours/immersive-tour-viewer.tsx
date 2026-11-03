@@ -326,19 +326,19 @@ export function ImmersiveTourViewer({ tour, isOpen, onClose }: ImmersiveTourView
           </div>
           <div>
             <p className="font-display text-lg uppercase tracking-wider text-primary">
-              Gira la rueda del ratón
+              Desliza o gira la rueda
             </p>
             <p className="text-xs text-foreground/80 mt-1 max-w-xs font-serif">
-              Avanza hacia adelante para adentrarte en el paisaje y volar entre imágenes.
+              Desliza hacia arriba o gira la rueda para volar entre los paisajes.
             </p>
           </div>
         </div>
       )}
 
       {/* BARRA INFERIOR DE PROGRESO Y CONTROLES */}
-      <footer className="relative z-20 px-6 py-4 md:px-10 md:py-6 bg-gradient-to-t from-background via-background/70 to-transparent flex items-center justify-between gap-4">
+      <footer className="relative z-20 px-4 py-3 sm:px-6 sm:py-4 md:px-10 md:py-6 bg-gradient-to-t from-background via-background/70 to-transparent flex items-center justify-between gap-4">
         {/* Indicador de destino activo */}
-        <div className="flex items-center gap-2">
+        <div className="hidden sm:flex items-center gap-2">
           <span className="font-mono text-xs uppercase tracking-widest text-primary font-semibold">
             {tour.destinationName}
           </span>

@@ -51,7 +51,7 @@ export function Scene({ destination: d, index, total }: SceneProps) {
             <p className="text-pretty text-lg leading-relaxed text-foreground md:text-xl md:leading-relaxed">
               {d.description}
             </p>
-            <dl className="grid grid-cols-3 gap-4 border-t border-border pt-6">
+            <dl className="grid grid-cols-1 sm:grid-cols-3 gap-4 border-t border-border pt-6">
               {d.facts.map((fact) => (
                 <div key={fact.label} className="flex flex-col gap-1">
                   <dt className="text-sm leading-snug text-muted-foreground">{fact.label}</dt>

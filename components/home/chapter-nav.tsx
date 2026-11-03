@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import { usePathname } from 'next/navigation'
+import { Menu, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { destinations } from '@/lib/data/destinations'
 
@@ -23,6 +24,11 @@ export function ChapterNav() {
   const pathname = usePathname()
   const isHome = pathname === '/'
   const [active, setActive] = useState(-1)
+  const [mobileOpen, setMobileOpen] = useState(false)
+
+  useEffect(() => {
+    setMobileOpen(false)
+  }, [pathname])
 
   useEffect(() => {
     if (!isHome) {
@@ -57,10 +63,10 @@ export function ChapterNav() {
         </div>
       )}
 
-      <header className="pointer-events-none fixed inset-x-0 top-0 z-50 flex items-center justify-between bg-gradient-to-b from-background/70 to-transparent px-6 pb-8 pt-5 md:px-12">
+      <header className="pointer-events-none fixed inset-x-0 top-0 z-50 flex items-center justify-between bg-gradient-to-b from-background/80 to-transparent px-6 pb-8 pt-5 md:px-12 backdrop-blur-[2px]">
         <a
           href={homeHref}
-          className="pointer-events-auto font-display text-lg uppercase tracking-widest text-foreground"
+          className="pointer-events-auto font-display text-lg uppercase tracking-widest text-foreground hover:text-primary transition-colors"
         >
           Venezuela
         </a>
@@ -94,8 +100,37 @@ export function ChapterNav() {
               )}
             </p>
           )}
+          {/* Botón menú hamburguesa en móviles */}
+          <button
+            onClick={() => setMobileOpen(!mobileOpen)}
+            aria-label={mobileOpen ? 'Cerrar menú' : 'Abrir menú de navegación'}
+            className="flex h-9 w-9 items-center justify-center rounded-full border border-foreground/20 bg-background/80 text-foreground md:hidden transition-colors hover:border-primary hover:text-primary"
+          >
+            {mobileOpen ? <X className="h-4 w-4 text-primary" /> : <Menu className="h-4 w-4" />}
+          </button>
         </div>
       </header>
+
+      {/* MENÚ MÓVIL PLEGABLE */}
+      {mobileOpen && (
+        <div className="fixed inset-0 z-40 flex flex-col bg-background/95 backdrop-blur-xl px-6 pt-24 pb-10 md:hidden animate-in fade-in duration-200">
+          <nav aria-label="Menú móvil" className="flex flex-col gap-5 border-t border-border/40 pt-6">
+            {navLinks.map((link) => (
+              <a
+                key={link.href}
+                href={link.href === '/' ? homeHref : link.href}
+                onClick={() => setMobileOpen(false)}
+                className={cn(
+                  'font-display text-2xl uppercase tracking-wider transition-colors',
+                  pathname === link.href ? 'text-primary' : 'text-foreground/80 hover:text-primary',
+                )}
+              >
+                {link.label}
+              </a>
+            ))}
+          </nav>
+        </div>
+      )}
 
       {isHome && (
         <nav

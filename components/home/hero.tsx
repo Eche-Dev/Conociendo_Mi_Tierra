@@ -24,7 +24,7 @@ export function Hero() {
         </p>
         <h1
           id="hero-title"
-          className="reveal font-display text-[clamp(4.5rem,19vw,18rem)] uppercase leading-[0.8] text-foreground"
+          className="reveal font-display text-[clamp(3.2rem,18vw,18rem)] uppercase leading-[0.85] text-foreground"
           style={{ '--delay': '150ms' } as React.CSSProperties}
         >
           Venezuela
